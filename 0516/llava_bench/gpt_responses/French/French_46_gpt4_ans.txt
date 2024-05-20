@@ -1,0 +1,88 @@
+Bien sûr, voici un exemple simple de code HTML avec du JavaScript pour créer un site web de blagues basé sur le mock-up que vous avez fourni. Ce code inclut deux blagues avec des boutons pour révéler la chute.
+
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mon site de blagues</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  .joke {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #e9e9e9;
+    border-radius: 5px;
+  }
+  .punchline {
+    display: none;
+    padding-top: 10px;
+    color: #666;
+  }
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  footer {
+    text-align: center;
+    padding: 20px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Mon site de blagues</h1>
+  
+  <div class="joke">
+    Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?
+    <div class="punchline">Parce que sinon ils tombent toujours dans le bateau.</div>
+    <button onclick="revealPunchline(this)">Cliquez pour voir la chute</button>
+  </div>
+  
+  <div class="joke">
+    Qu'est-ce qui est jaune et qui attend ?
+    <div class="punchline">Jonathan.</div>
+    <button onclick="revealPunchline(this)">Cliquez pour voir la chute</button>
+  </div>
+  
+  <footer>© OpenAI 2023</footer>
+</div>
+
+<script>
+function revealPunchline(button) {
+  var punchline = button.previousElementSibling;
+  punchline.style.display = 'block';
+  button.style.display = 'none';
+}
+</script>
+</body>
+</html>
+```
+
+Ce code HTML crée une page web avec deux blagues. Chaque blague est suivie d'un bouton qui, lorsqu'il est cliqué, révèle la chute de la blague. Le style CSS est utilisé pour rendre la page plus attrayante et pour masquer la chute de la blague jusqu'à ce que le bouton soit cliqué. Le JavaScript est utilisé pour changer l'affichage de la chute et du bouton lorsqu'on clique sur le bouton.

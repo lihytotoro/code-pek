@@ -1,0 +1,9 @@
+La imagen muestra una serie de tres paneles que parecen contar una historia humorística sobre un error de conexión entre un cable y un dispositivo.
+
+Panel 1: Vemos un teléfono inteligente sobre una superficie de tela con un cable que parece estar conectado a él. A primera vista, el conector parece ser demasiado grande para el puerto del teléfono.
+
+Panel 2: Se muestra un empaque de un producto con texto en japonés y la marca "ELECOM". El empaque indica que es un accesorio para "Lightning Cable". Hay una imagen de un conector VGA, que es típicamente utilizado para conectar monitores a computadoras, no para cargar teléfonos.
+
+Panel 3: Aquí se revela la broma. Una mano sostiene el extremo del cable, que ahora podemos ver que está modificado para parecer un conector VGA, pero en realidad es un conector Lightning (utilizado para dispositivos Apple) con una carcasa de plástico azul que lo hace parecer un conector de monitor.
+
+Lo divertido de la imagen es la expectativa inicial de que alguien intentó conectar un cable VGA a un teléfono, lo cual sería un error cómico, pero luego se revela que es una broma o una modificación hecha a propósito para que el conector Lightning parezca un conector VGA.

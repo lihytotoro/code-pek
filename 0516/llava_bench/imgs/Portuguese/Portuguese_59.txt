@@ -1,0 +1,1 @@
+Revele todos os indicadores que mostram as condições atuais do trânsito.

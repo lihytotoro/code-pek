@@ -1,0 +1,66 @@
+Hier ist ein einfaches Beispiel für HTML und JavaScript, das dem Mockup entspricht und bei dem ein fiktiver Scherz angezeigt wird:
+
+```html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meine Witz-Webseite</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+  }
+  #jokeContainer {
+    background-color: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  #punchline {
+    display: none;
+    color: #008000;
+    margin-top: 20px;
+  }
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+</style>
+</head>
+<body>
+
+<div id="jokeContainer">
+  <h1>Meine Witz-Webseite</h1>
+  <p id="setup">[Lustiger Witz]</p>
+  <button onclick="revealPunchline()">Klicke, um die Pointe zu zeigen</button>
+  <p id="punchline">[Pointe des Witzes]</p>
+</div>
+
+<script>
+function revealPunchline() {
+  var punchline = document.getElementById("punchline");
+  punchline.style.display = "block";
+  punchline.textContent = "Das ist die Pointe!";
+}
+</script>
+
+</body>
+</html>
+```
+
+Dieser Code erstellt eine einfache Webseite mit einem Titel, einem Bereich für den Witz (den Sie mit einem echten Witz füllen können), einem Button, um die Pointe zu zeigen, und einem versteckten Bereich, der die Pointe enthält. Wenn der Benutzer auf den Button klickt, wird die Pointe angezeigt und der Text des versteckten Paragraphen wird durch den JavaScript-Code geändert.

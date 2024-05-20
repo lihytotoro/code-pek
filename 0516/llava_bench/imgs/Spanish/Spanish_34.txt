@@ -1,0 +1,1 @@
+Muestre la receta detallada para este plato.

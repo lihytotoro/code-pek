@@ -1,0 +1,6 @@
+Die aktuellen Verkehrszustände können über die folgenden Anhaltspunkte beobachtet werden:
+
+1. Die Anzahl von Autos in jeder Abschnitt der Autobahn: Es gibt viele Autos in beiden vierstreifigen Abschnitten, während der Verkehr auf den beiden dreistreifigen Abschnitten leicht ist.
+2. Bremsleuchten: Die meisten Autos in den vierstreifigen Abschnitten, die sich vom Kamerastandpunkt weg bewegen, haben ihre Bremsleuchten eingeschaltet, was auf eine mögliche Verlangsamung oder Stau in diesem Abschnitt hinweist.
+3. Verkehrsbesetzung: Die vierstreifigen Abschnitte erscheinen im Vergleich zu den dreistreifigen Abschnitten mit dichterem Verkehr zu sein.
+4. Beleuchtung: Die Lichter entlang der Autobahn sind eingeschaltet, was darauf hinweist, dass das Bild in der Nacht aufgenommen wurde, was auch den Verkehrszustand je nach Zeit und Region beeinflussen kann.

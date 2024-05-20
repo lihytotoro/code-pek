@@ -1,0 +1,51 @@
+Hier ist ein kurzer und einfacher HTML/JS-Code, um eine farbenfrohe Website mit Hilfe des Notebook-Sketchs zu erstellen, die zwei echte Witze enthält:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mein Witz-Website</title>
+  <style>
+    body {
+      background-color: hellblau;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: lila;
+    }
+    button {
+      background-color: orange;
+      color: weiß;
+      font-size: 1.2em;
+      margin-top: 10px;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mein Witz-Website</h1>
+  <p id="joke1">Warum erzählen wir nie Geheimnisse auf einem Bauernhof?</p>
+  <button onclick="showPunchline('punchline1')">Drücken Sie auf "Punchline anzeigen", um die Antwort zu sehen</button>
+  <p id="punchline1" hidden>Weil die Kartoffeln Augen haben und das Mais gehört!</p>
+
+  <p id="joke2">Warum vertrauen Wissenschaftler nicht Atom?</p>
+  <button onclick="showPunchline('punchline2')">Drücken Sie auf "Punchline anzeigen", um die Antwort zu sehen</button>
+  <p id="punchline2" hidden>Weil sie alles aufbauen!</p>
+  
+  <p>Copyright OpenAI 2023</p>
+
+  <script>
+    function showPunchline(punchlineId) {
+      document.getElementById(punchlineId).hidden = false;
+    }
+  </script>
+</body>
+</html>
+```
+
+Dieser Code erstellt eine einfache und farbenfrohe Webseite mit einem hellblauen Hintergrund und einem lila Titel. Die Witze und Schaltflächen werden auf der Seite angezeigt, und wenn der Benutzer auf die Schaltfläche "Punchline anzeigen" klickt, wird die jeweilige Punchline mithilfe von JavaScript angezeigt.

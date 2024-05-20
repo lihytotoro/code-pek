@@ -1,0 +1,5 @@
+Você está olhando para um esboço simples, desenhado à mão, que representa a interface de um site de piadas. O esboço é feito com linhas azuis em um papel branco. No topo do esboço, há um cabeçalho que diz "My Joke Website", indicando que é um site pessoal dedicado a piadas.
+
+Abaixo do cabeçalho, há duas seções retangulares. A primeira seção contém o texto "[Funny Joke]", sugerindo que é o local onde uma piada engraçada será exibida. A segunda seção, localizada logo abaixo da primeira, contém o texto "[push to reveal punchline]", que implica que é um botão ou algum tipo de interação que o usuário pode acionar para revelar a "punchline" ou a parte final da piada que geralmente contém a surpresa ou o elemento humorístico.
+
+O esboço é bastante básico e parece ser um rascunho inicial de como o site poderia ser estruturado em termos de layout e funcionalidade.

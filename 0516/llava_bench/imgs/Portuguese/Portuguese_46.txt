@@ -1,0 +1,1 @@
+Crie um código HTML/JS para transformar esse mock-up em um site web colorido, onde as piadas estão substituídas por duas piadas reais.

@@ -1,0 +1,7 @@
+Estás mirando un boceto a mano de una página web conceptual titulada "My Joke website". El esbozo se ha dibujado en papel y presenta un diseño simple y básico. En la parte superior, la cabecera muestra el título "My Joke website" con un estilo de letra informal.
+
+Debajo de la cabecera, hay dos secciones que parecen representar lugares donde se pueden mostrar chistes. Cada sección tiene un rectángulo que parece ser un botón o un área interactiva con texto. El primer rectángulo dice "Really funny joke 1" y debajo hay otro rectángulo que dice "Push to reveal punchline". Esta estructura se repite justo debajo con "Same but joke 2" seguido por otro rectángulo que dice "Push to reveal punchline", lo que sugiere que el usuario puede interactuar con estos elementos para ver la conclusión de cada chiste.
+
+En la parte inferior de la página, hay una firma que dice "© OpenAI 2023", lo que indica que la persona que hizo el boceto puede haberlo hecho en el año 2023 y está atribuyendo la propiedad intelectual o la creación de la página web a OpenAI.
+
+El boceto es bastante simple y carece de detalles gráficos o de diseño más elaborados, lo que sugiere que puede ser un concepto inicial o una idea para una página web que se desarrollará más adelante.

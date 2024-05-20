@@ -1,0 +1,90 @@
+Um das Mockup in eine einfache, farbenfrohe Website umzusetzen, können Sie den folgenden HTML- und JavaScript-Code verwenden. Ersetzen Sie "Witz 1" und "Witz 2" durch zwei echte Witze Ihrer Wahl:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Joke Website</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  .joke {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #e9e9e9;
+    border-radius: 4px;
+  }
+  .punchline {
+    color: #fff;
+    background-color: #007bff;
+    padding: 10px;
+    border-radius: 4px;
+    display: none;
+    margin-top: 10px;
+  }
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #218838;
+  }
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #777;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>My Joke Website</h1>
+  <div class="joke">
+    Witz 1
+    <div class="punchline" id="punchline1">Pointe von Witz 1</div>
+    <button onclick="revealPunchline('punchline1')">Klicke, um die Pointe zu sehen</button>
+  </div>
+  <div class="joke">
+    Witz 2
+    <div class="punchline" id="punchline2">Pointe von Witz 2</div>
+    <button onclick="revealPunchline('punchline2')">Klicke, um die Pointe zu sehen</button>
+  </div>
+</div>
+<footer>
+  &copy; OpenAI 2023
+</footer>
+<script>
+  function revealPunchline(id) {
+    var punchline = document.getElementById(id);
+    punchline.style.display = 'block';
+  }
+</script>
+</body>
+</html>
+```
+
+Ersetzen Sie "Witz 1" und "Pointe von Witz 1" sowie "Witz 2" und "Pointe von Witz 2" durch die Texte der Witze, die Sie verwenden möchten. Die Funktion `revealPunchline` wird aufgerufen, wenn der Benutzer auf den Button klickt, und zeigt die Pointe des jeweiligen Witzes an.

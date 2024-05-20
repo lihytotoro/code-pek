@@ -1,0 +1,6 @@
+As condições atuais do trânsito podem ser observadas através dos seguintes indicadores:
+
+1. O número de automóveis em cada seção da auto-estrada: há muitos automóveis nas seções com quatro vias, enquanto o trânsito é leve nas seções com três vias.
+2. Sinais de freio: a maioria dos automóveis na seção com quatro vias se dirigindo ao objetivo têm seus sinais de freio acesos, o que indica uma possível redução de velocidade ou congestionamento nessa seção.
+3. Ocupação das vias: as seções com quatro vias parecem ter um trânsito mais intenso do que as seções com três vias.
+4. Iluminação: os faróis ao longo da auto-estrada estão acesos, o que indica que a imagem foi tirada à noite, o que pode também afetar as condições de trânsito em função da hora e do local.

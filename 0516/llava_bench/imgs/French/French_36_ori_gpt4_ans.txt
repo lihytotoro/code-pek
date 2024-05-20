@@ -1,0 +1,1 @@
+Les deux concepts d'apprentissage automatique mentionnés dans le meme sont "apprentissage statistique" et "réseaux de neurones".

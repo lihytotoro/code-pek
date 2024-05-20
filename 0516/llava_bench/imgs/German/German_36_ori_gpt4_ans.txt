@@ -1,0 +1,1 @@
+Die beiden maschinellen Lernkonzepte, die im Meme erwähnt werden, sind "statistische Lernverfahren" und "Neuronale Netze".

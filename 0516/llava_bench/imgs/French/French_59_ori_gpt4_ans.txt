@@ -1,0 +1,6 @@
+Les conditions actuelles du trafic peuvent être observées à travers les suivants indices :
+
+1. Le nombre d'automobiles dans chaque section de l'autoroute : il y a beaucoup d'automobiles dans les sections à quatre voies, tandis que le trafic est léger dans les sections à trois voies.
+2. Feux de freinage : la plupart des automobiles dans la section à quatre voies se dirigeant vers l'objectif ont leurs feux de freinage allumés, ce qui indique une possible ralentissement ou congestion dans cette section.
+3. Occupation des voies : les sections à quatre voies semblent avoir un trafic plus lourd que les sections à trois voies.
+4. Éclairage : les feux le long de l'autoroute sont éclairés, ce qui indique que l'image a été prise la nuit, ce qui peut également affecter les conditions de trafic en fonction de l'heure et de l'endroit.

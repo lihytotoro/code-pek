@@ -1,0 +1,4 @@
+Os dois conceitos de aprendizado automático mencionados no mesmo texto são:
+
+1. Aprendizado Estatístico (Statistical Learning)
+2. Redes Neurais (Neural Networks)

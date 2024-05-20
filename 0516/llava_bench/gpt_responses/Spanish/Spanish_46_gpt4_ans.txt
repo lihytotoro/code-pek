@@ -1,0 +1,82 @@
+Aquí tienes un ejemplo de cómo podrías convertir el mockup en un sitio web básico utilizando HTML y JavaScript. Este código incorporará dos chistes con botones que revelarán las respuestas cuando sean presionados.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mi Sitio de Chistes</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+  }
+  .container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin: auto;
+    max-width: 600px;
+  }
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  .joke {
+    margin-bottom: 20px;
+  }
+  .punchline {
+    color: #555;
+    display: none;
+    padding-top: 10px;
+  }
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Mi Sitio de Chistes</h1>
+  
+  <div class="joke">
+    <p>¿Qué le dice un jardinero a otro?</p>
+    <button onclick="revealPunchline('punchline1')">Mostrar Respuesta</button>
+    <p id="punchline1" class="punchline">¡Ho-la!</p>
+  </div>
+  
+  <div class="joke">
+    <p>¿Por qué los pájaros no usan Facebook?</p>
+    <button onclick="revealPunchline('punchline2')">Mostrar Respuesta</button>
+    <p id="punchline2" class="punchline">Porque ya tienen Twitter.</p>
+  </div>
+  
+  <footer>
+    <p>&copy; OpenAI 2023</p>
+  </footer>
+</div>
+
+<script>
+function revealPunchline(id) {
+  var punchline = document.getElementById(id);
+  punchline.style.display = 'block';
+}
+</script>
+</body>
+</html>
+```
+
+Este código HTML crea una página web con dos chistes y botones que, cuando se presionan, muestran la respuesta del chiste. El estilo CSS proporciona un diseño básico y colores para hacer la página más atractiva visualmente. El script de JavaScript contiene una función que revela la respuesta del chiste correspondiente cuando se hace clic en el botón.

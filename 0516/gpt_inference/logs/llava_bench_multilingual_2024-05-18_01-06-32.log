@@ -1,0 +1,1036 @@
+2024-05-18 01:06:32,524 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,527 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,530 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,531 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,532 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,532 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,533 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,533 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,534 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,541 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:32,545 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:35,727 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:36,643 - INFO - status code: 102503 
+error: {"requestId":"9e88216dbd163f25db1608504fc5cb60","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,360 - INFO - status code: 102503 
+error: {"requestId":"85e11cf7a960e6707747da3755bd36c9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,395 - INFO - status code: 102503 
+error: {"requestId":"2c190398763e9a0c6e58274af97001c7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,432 - INFO - status code: 102503 
+error: {"requestId":"fb04aa76fdc80a5dbd95bbccbee04292","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,434 - INFO - status code: 102503 
+error: {"requestId":"6ff1a7a3e929a35ef18232f38fe7c58d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,436 - INFO - status code: 102503 
+error: {"requestId":"ee325275e5db126ba69e4aa868554e19","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,468 - INFO - status code: 102503 
+error: {"requestId":"6aee2b340a549379dc1eb4de27d5de90","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,476 - INFO - status code: 102503 
+error: {"requestId":"e6c90e9690fd7fb5c51dbbeae17bb660","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,717 - INFO - status code: 102503 
+error: {"requestId":"77f2743e434131037ce1df356d7f7c6b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:38,724 - INFO - status code: 102503 
+error: {"requestId":"91d5fe3b12c626b1598e648bf5027185","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:39,897 - INFO - status code: 102503 
+error: {"requestId":"e209eabcca10058431e45a38677f2063","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:40,655 - INFO - status code: 102503 
+error: {"requestId":"b3fbcdcec739ebab973847772eba5447","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:41,512 - INFO - status code: 102503 
+error: {"requestId":"5c4736435af92707288d1cb6948a513e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:41,560 - INFO - status code: 102503 
+error: {"requestId":"dbf10a34e17e775742a118d116befe86","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:41,564 - INFO - status code: 102503 
+error: {"requestId":"969a18184d3cd0d97a829513435a28c2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:41,567 - INFO - status code: 102503 
+error: {"requestId":"b30e17a5cb52f118e100adddbf4fd0d8","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:41,575 - INFO - status code: 102503 
+error: {"requestId":"c4620e798624dce2188a05a7c2ad399b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:41,669 - INFO - status code: 102503 
+error: {"requestId":"d92986b8a06c39fb6675d9b736c6549f","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:41,735 - INFO - status code: 102503 
+error: {"requestId":"b49f5456e8e67ff3af63ab11162b8156","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:42,351 - INFO - status code: 102503 
+error: {"requestId":"dbf9a0d46c61d59129b0a6939efb8e9e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:42,439 - INFO - status code: 102503 
+error: {"requestId":"3e5804d20e820d5570a226c7b63c9e3d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:42,445 - INFO - status code: 102503 
+error: {"requestId":"625d21ceb8af4b740aec9f8424dea8a7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:42,502 - INFO - status code: 102503 
+error: {"requestId":"54ca01caa1f23a8f35947522e001accc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:43,419 - INFO - status code: 102503 
+error: {"requestId":"5fd5fb5735f5d8133b07efcd43895c0f","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:43,906 - INFO - status code: 102503 
+error: {"requestId":"ea199b0e02684f757664d024f1b7fad9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:44,842 - INFO - status code: 102503 
+error: {"requestId":"7c4a33b58be3b8d33bb920665848ef72","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:45,508 - INFO - status code: 102503 
+error: {"requestId":"2550fec9cb2f9c5dc6957e6edf0e94f4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:45,541 - INFO - status code: 102503 
+error: {"requestId":"3f3f36aa72fe78d07dec9845fc8d9b11","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:45,602 - INFO - status code: 102503 
+error: {"requestId":"b4e1c68e1014a8749ffb37342ff1688b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:45,607 - INFO - status code: 102503 
+error: {"requestId":"9a52deb7eddba697fede5610a05de844","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:45,749 - INFO - HTTPSConnectionPool(host='llm-center.ali.modelbest.cn', port=443): Max retries exceeded with url: /llm/client/conv/submitMsgFreeChoiceProcess/sync (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6c743d75b0>: Failed to resolve 'llm-center.ali.modelbest.cn' ([Errno -3] Temporary failure in name resolution)"))
+2024-05-18 01:06:45,801 - INFO - status code: 102503 
+error: {"requestId":"f873c867864239e3d7d1a40c0cec8943","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:46,494 - INFO - status code: 102503 
+error: {"requestId":"a269a35f007d53caf3e6c707d3c08461","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:46,682 - INFO - status code: 102503 
+error: {"requestId":"b26a9791bd821bd32a6e9a496629985c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:47,429 - INFO - status code: 102503 
+error: {"requestId":"5c93b986297d830c8aeb9d23efaf9e57","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:47,509 - INFO - status code: 102503 
+error: {"requestId":"29ca3094ae684b7f62e40440d057b0c5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:47,635 - INFO - status code: 102503 
+error: {"requestId":"3032c57b236c2f97451560fb3f77dbd4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:47,676 - INFO - status code: 102503 
+error: {"requestId":"25a66643120cc6c0e5839644c5a15113","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:47,757 - INFO - status code: 102503 
+error: {"requestId":"a4bf78be24417e1d3d81b4aa3dcfa2cd","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:47,865 - INFO - status code: 102503 
+error: {"requestId":"bf6987fa4c758b2065541539fc8f5e8a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:48,992 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:49,061 - INFO - status code: 102503 
+error: {"requestId":"813b9b933c45c528dbf46c0cbd6d96fb","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:49,344 - INFO - status code: 102503 
+error: {"requestId":"917cb61f6777eb7f8752c41ae5831acb","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:49,493 - INFO - status code: 102503 
+error: {"requestId":"d0c8bb58a11b8383eb918f60985c1113","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:49,567 - INFO - status code: 102503 
+error: {"requestId":"1cbcaae671834bbbfe78f22273178a14","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:49,586 - INFO - status code: 102503 
+error: {"requestId":"153f329e67312ceab3a1b7711dad6674","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:49,793 - INFO - status code: 102503 
+error: {"requestId":"7a7e822c8c3610fe0e2415c1243d6767","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:50,323 - INFO - status code: 102503 
+error: {"requestId":"8a724c5928a3d801a27119a4b7f31d29","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:50,688 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:50,712 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:50,747 - INFO - status code: 102503 
+error: {"requestId":"a7d112e397a6252ec2a4a14935a8dfc7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:50,796 - INFO - status code: 102503 
+error: {"requestId":"ff5a7588077e247c59f0cb0f3c280708","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:51,353 - INFO - status code: 102503 
+error: {"requestId":"62b837e9cdea3e2da119d644091a35e3","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:51,383 - INFO - status code: 102503 
+error: {"requestId":"68daa5136bc1a6b020865c30a7666042","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:51,399 - INFO - status code: 102503 
+error: {"requestId":"38c82813ee77dbdd0b399371b9bad28c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:51,444 - INFO - status code: 102503 
+error: {"requestId":"f7d15b65fbd9913019aa0c464f82ff8e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:51,954 - INFO - status code: 102503 
+error: {"requestId":"7a2946c39124dc2c61896be84fdb5be7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:52,742 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:53,079 - INFO - status code: 102503 
+error: {"requestId":"57fa6a542241c767e06a95a71d5b31ac","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:53,085 - INFO - status code: 102503 
+error: {"requestId":"6efd63b09793064ffe95df98416f80e8","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:53,515 - INFO - status code: 102503 
+error: {"requestId":"6c48d6df535a47e34432fe0c74c42311","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:53,537 - INFO - status code: 102503 
+error: {"requestId":"f273ebe08f5b0825d7e8b3477db630d5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:53,598 - INFO - status code: 102503 
+error: {"requestId":"bff0059bd5a51768c95fe4094c12956e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:54,315 - INFO - status code: 102503 
+error: {"requestId":"8da71e0a80aadf46526cfa69220ea088","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:54,687 - INFO - status code: 102503 
+error: {"requestId":"c469c98a31693c16fe81008ec7daa8ff","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:54,828 - INFO - status code: 102503 
+error: {"requestId":"ce200c6d3d792dc432fea1a7b44810d0","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:55,045 - INFO - status code: 102503 
+error: {"requestId":"14796bf6f56c719d16c8dadf92cf4d1e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:55,409 - INFO - status code: 102503 
+error: {"requestId":"b40e4402ec90db68a9c6ab0f8c8c1eba","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:55,426 - INFO - status code: 102503 
+error: {"requestId":"7064448923f241265753afa22b26340f","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:55,465 - INFO - status code: 102503 
+error: {"requestId":"47e7babf6c06357d63d103581e953301","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:56,024 - INFO - status code: 102503 
+error: {"requestId":"c19e03402ed37b1aa866bbc4a7835c01","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:56,259 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:56,606 - INFO - status code: 102503 
+error: {"requestId":"4768a64deb2997757bbbd9c47ecc4ea5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:56,724 - INFO - status code: 102503 
+error: {"requestId":"c25d49245ceab9bb8364218139ba643a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:56,783 - INFO - status code: 102503 
+error: {"requestId":"263095b24a15d38adf102c2c629cb0ba","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:57,082 - INFO - status code: 102503 
+error: {"requestId":"f5bfda00fa2a133d4a8b02b71f5217f2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:57,505 - INFO - status code: 102503 
+error: {"requestId":"4adc80746de2e9adcd3bff55571bf64c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:57,980 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:58,001 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:06:58,099 - INFO - status code: 102503 
+error: {"requestId":"152d809232e7e623ead46c91d1f7f76a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:58,535 - INFO - status code: 102503 
+error: {"requestId":"5bb554b71a7a50918982f6d5ea714611","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:59,104 - INFO - status code: 102503 
+error: {"requestId":"2845be3192eb982e4a674f099fc699dd","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:59,306 - INFO - status code: 102503 
+error: {"requestId":"603123ef483c94921d5ddc46c1f5b9a9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:59,325 - INFO - status code: 102503 
+error: {"requestId":"9476bf6830d2e11f6cdb121a5b71ca74","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:59,325 - INFO - status code: 102503 
+error: {"requestId":"f20df9fe09ee80fd1d5479e46a729c79","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:59,919 - INFO - status code: 102503 
+error: {"requestId":"28450a59b422908797f7dfcfb8b682cf","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:06:59,969 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:00,212 - INFO - status code: 102503 
+error: {"requestId":"a8c41492e52701cf38fa295406c2c0a9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:00,270 - INFO - status code: 102503 
+error: {"requestId":"cd1e3ff35b04a34f1dc7abd9daf9103","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:00,322 - INFO - status code: 102503 
+error: {"requestId":"cff5677e6baaa0cc633edc1e9d895d2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:00,556 - INFO - status code: 102503 
+error: {"requestId":"51ae0eb31dad80b5203e256eadca2e82","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:01,294 - INFO - status code: 102503 
+error: {"requestId":"c426fd59b21e0d56ecd235286125e461","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:01,693 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:01,778 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:01,955 - INFO - status code: 102503 
+error: {"requestId":"9d5eb3eed98aa278755f0e646302181b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:01,982 - INFO - status code: 102503 
+error: {"requestId":"7997ad3dd3d1fd83aa9dcbb24b1dd675","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:02,012 - INFO - status code: 102503 
+error: {"requestId":"e5ffb957ec039e1ab364e1469a70e5c7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:02,035 - INFO - status code: 102503 
+error: {"requestId":"99434d44cf62b480e4a02e879fce3bc1","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:02,110 - INFO - status code: 102503 
+error: {"requestId":"fbbedf5231d7d2c77befce5cc354268e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:02,531 - INFO - status code: 102503 
+error: {"requestId":"81203da9e431371c300abbe8b279dab3","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:03,137 - INFO - status code: 102503 
+error: {"requestId":"4c5a9b4c0073131b1c6a47b21a1675aa","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:03,163 - INFO - status code: 102503 
+error: {"requestId":"164e5d052f1aab097caff1d89a4eadb4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:03,240 - INFO - status code: 102503 
+error: {"requestId":"da1838df99971d2a6c24e3c1dae2646c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:03,464 - INFO - status code: 102503 
+error: {"requestId":"236fa00c69d4f958c067609a724f810a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:04,024 - INFO - status code: 102503 
+error: {"requestId":"9276553b2ff2720102df9a9cd2c94139","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:04,041 - INFO - status code: 102503 
+error: {"requestId":"33834ef756aebc665e3c350154b1bb53","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:04,431 - INFO - status code: 102503 
+error: {"requestId":"a3490b0aa3a8776ec4eba8aeb3cd96a3","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:05,161 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:05,374 - INFO - status code: 102503 
+error: {"requestId":"399762b355ed335c8d3196e95bfd4dad","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:05,671 - INFO - status code: 102503 
+error: {"requestId":"d7e91919d514546de6776899f173ec91","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:05,770 - INFO - status code: 102503 
+error: {"requestId":"8be9afa9804a27110a5ab070af660d30","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:05,854 - INFO - status code: 102503 
+error: {"requestId":"39c1b12a8c0fa5ac519050d48d0cdca9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:06,169 - INFO - status code: 102503 
+error: {"requestId":"5bcb281e4207f3b102c8a7eb7065212d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:06,348 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:06,624 - INFO - status code: 102503 
+error: {"requestId":"c6015581a946ec1d93746e295ea2ce8c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:07,213 - INFO - status code: 102503 
+error: {"requestId":"ad2cfcda54519920fe380bf0d3438e90","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:07,224 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:07,339 - INFO - status code: 102503 
+error: {"requestId":"e4dfdb723c49abc25955c1b07e99bbd8","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:07,575 - INFO - status code: 102503 
+error: {"requestId":"8f5cf4437c268797f9bed1c99138d27a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:08,083 - INFO - status code: 102503 
+error: {"requestId":"8f898e2946ec2028a7c1c6cb6df43942","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:08,544 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:08,616 - INFO - status code: 102503 
+error: {"requestId":"6063c26cc6a3208dd89de320e931e501","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:09,128 - INFO - status code: 102503 
+error: {"requestId":"9724e1b569c4c396e570c0b45c3c8421","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:09,166 - INFO - status code: 102503 
+error: {"requestId":"7220f4df178c47c57b49d140a4db3155","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:09,215 - INFO - status code: 102503 
+error: {"requestId":"e8615209ff9710218d00115fab3ee62d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:09,456 - INFO - status code: 102503 
+error: {"requestId":"e9a3e37c1ceb95619c1fe8f2fb2c9d3d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:10,039 - INFO - status code: 102503 
+error: {"requestId":"1d76d70a20a0dd4535ecfc0283bdc4b7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:10,339 - INFO - status code: 102503 
+error: {"requestId":"db48212b3b4d07d653f5debf945df62d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:10,393 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:10,610 - INFO - status code: 102503 
+error: {"requestId":"bf4f46b14d870027cd1de49cddacef45","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:10,840 - INFO - status code: 102503 
+error: {"requestId":"f967216ae9c388f345a9b12f045f7fa1","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:11,018 - INFO - status code: 102503 
+error: {"requestId":"6d18c7a89b444428c9a9ff87da13c419","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:11,074 - INFO - status code: 102503 
+error: {"requestId":"e8e12635ca137ee977fc94c9fb4ef3e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:11,224 - INFO - status code: 102503 
+error: {"requestId":"ac295a664b59c85362cc9d1fddf276b3","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:11,227 - INFO - status code: 102503 
+error: {"requestId":"d9b03a71c206e069a82f94c150c85bf3","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:11,486 - INFO - status code: 102503 
+error: {"requestId":"84d201286b024d3eba49ad8f5821751b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:11,798 - INFO - status code: 102503 
+error: {"requestId":"d14bfd9f295485a4f437ff56662f9ce1","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:12,492 - INFO - status code: 102503 
+error: {"requestId":"e6a6b6b9d5d88f438c487faaf87d1076","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:12,705 - INFO - status code: 102503 
+error: {"requestId":"3a53e60ed5ba6e046f169017bbfc6a70","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:13,018 - INFO - status code: 102503 
+error: {"requestId":"e83bac10233f02f6ddc67e40949e3a1e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:13,352 - INFO - status code: 102503 
+error: {"requestId":"b11c0578a41fc75a678a6f50b88eb78d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:13,487 - INFO - status code: 102503 
+error: {"requestId":"e482305ef9116cdd43c481295a2a0c90","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:13,669 - INFO - status code: 102503 
+error: {"requestId":"b6e1cd5be824dcec4faf3ae182f2e3ef","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:14,080 - INFO - status code: 102503 
+error: {"requestId":"532128fad919bf6cec1c7a4d2eece385","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:14,249 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:14,250 - INFO - status code: 102503 
+error: {"requestId":"6051182f248be51acab89efd4a2dd4ed","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:14,348 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:14,401 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:14,403 - INFO - status code: 102503 
+error: {"requestId":"3b31694f1eb12763d70d1bf9140caefc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:14,499 - INFO - status code: 102503 
+error: {"requestId":"d46d291d8c33eaee76d65335d1d4c12e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:14,625 - INFO - status code: 102503 
+error: {"requestId":"ac78e0aa55c3b0989c44b893fb9baedb","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:15,092 - INFO - status code: 102503 
+error: {"requestId":"15a4c82e1fcf6f1e1e8e7b4257000844","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:15,208 - INFO - status code: 102503 
+error: {"requestId":"dc13a14d3713debf3fc4f85906a4c69","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:16,020 - INFO - status code: 102503 
+error: {"requestId":"8c646c13ebf029a418e96cab4b03c838","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:16,430 - INFO - status code: 102503 
+error: {"requestId":"964b5f45daafc572941b0778b5a8c967","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:16,770 - INFO - status code: 102503 
+error: {"requestId":"1890c428017b2f7440052fbebf34ee00","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:17,374 - INFO - status code: 102503 
+error: {"requestId":"547d489990f8a7df255ac27a20eba211","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:17,615 - INFO - status code: 102503 
+error: {"requestId":"676b4a9ba05bbca647252f0a18397ca5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:18,185 - INFO - status code: 102503 
+error: {"requestId":"ef795c80e4c9308f39ccae72f92c3d68","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:18,421 - INFO - status code: 102503 
+error: {"requestId":"ffad164aa4a7f5f67ae679462f00dc32","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:18,508 - INFO - status code: 102503 
+error: {"requestId":"e0f188b7c93ac45bdccad1646bd05e28","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:18,551 - INFO - status code: 102503 
+error: {"requestId":"230032eea9674e55c485637b2d20ee4e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:19,862 - INFO - status code: 102503 
+error: {"requestId":"79e7e7aaa2ee66f8d52cfbea65c0777","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:19,943 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:20,444 - INFO - status code: 102503 
+error: {"requestId":"c838ad647eefc5d70db90be1c10bf684","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:21,208 - INFO - status code: 102503 
+error: {"requestId":"2a9916a687767fb1b02f656a4f71dd05","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:21,656 - INFO - status code: 102503 
+error: {"requestId":"143e0c2efda0c355e54987177d9f099a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:23,725 - INFO - status code: 102503 
+error: {"requestId":"8759075710dd4057f42825b5f0e615a9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:27,032 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,034 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,034 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,042 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,046 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,047 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,051 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,055 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,055 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:27,883 - INFO - status code: 102503 
+error: {"requestId":"98ae295566fbba65e1bb63c43178c598","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:28,041 - INFO - status code: 102503 
+error: {"requestId":"1b3f70b81cb8c68da53589d628055699","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:30,210 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:30,257 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:30,891 - INFO - status code: 102503 
+error: {"requestId":"9b9b6488971b6ad309242aba2f42b283","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:31,068 - INFO - status code: 102503 
+error: {"requestId":"dac80dde2fac24f53fc78ea68c796315","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:31,875 - INFO - status code: 102503 
+error: {"requestId":"e228ccf8c30cd6b69d45386d2c1020d8","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:32,362 - INFO - status code: 102503 
+error: {"requestId":"bd6e76eec7f0d90fbc596466adf9ef54","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:32,792 - INFO - status code: 102503 
+error: {"requestId":"5bbe5684fd28a4099f7f97eb829957db","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:32,792 - INFO - status code: 102503 
+error: {"requestId":"f2241200e1b47e93f273e81cef9738f6","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:32,858 - INFO - status code: 102503 
+error: {"requestId":"c349550e568c3b31e6d1391176c10b20","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:32,887 - INFO - status code: 102503 
+error: {"requestId":"a14462c658252e9f91ee26eb415a92ce","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:32,892 - INFO - status code: 102503 
+error: {"requestId":"b12bf85a09e400e8e6677d3680c1795d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:32,932 - INFO - status code: 102503 
+error: {"requestId":"81364236e295dda4e5a95b6e9f8c14e7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:33,074 - INFO - status code: 102503 
+error: {"requestId":"ee218c3c355956203877bc3a88bdefc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:33,146 - INFO - status code: 102503 
+error: {"requestId":"978e4b3c788d11ed6dca894bb0b54cbe","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:33,190 - INFO - status code: 102503 
+error: {"requestId":"dc21389b359ce0c81cbbb1912df3fd69","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:34,108 - INFO - status code: 102503 
+error: {"requestId":"6d2db83ea6eb3d58c69cc2978e01d8ae","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:34,237 - INFO - status code: 102503 
+error: {"requestId":"293caf05426c36412e3a5927f41c23cc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:34,957 - INFO - status code: 102503 
+error: {"requestId":"4de7b4496f7b2a46469344cc6d9c98db","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:35,033 - INFO - status code: 102503 
+error: {"requestId":"9a4f97c5a7182c5811df03fe92066dd9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:35,711 - INFO - status code: 102503 
+error: {"requestId":"2e7c555a857b00b87e63d8abe3fe7a6","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:35,802 - INFO - status code: 102503 
+error: {"requestId":"46be08d4f57102dafbf9c487def36275","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:35,979 - INFO - status code: 102503 
+error: {"requestId":"4e35f9b8fb515091a15aa8d2cc2f76f3","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:36,050 - INFO - status code: 102503 
+error: {"requestId":"9a8980c53abb94f92f28d39ccad4aa1e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:36,064 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:36,065 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:36,162 - INFO - status code: 102503 
+error: {"requestId":"a5d8e6e7b5558291f924a9c606301021","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:36,192 - INFO - status code: 102503 
+error: {"requestId":"ecfd76e51b69f6b7e9c3371ac44eff45","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:36,858 - INFO - status code: 102503 
+error: {"requestId":"e42c069dadcf69d38b3462f426b4a302","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:36,889 - INFO - status code: 102503 
+error: {"requestId":"1e077ae9c8f031e1099bb0e2ef7259fc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:37,114 - INFO - status code: 102503 
+error: {"requestId":"30bfe10f7d5a82220a37ad605f7856b7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:37,991 - INFO - status code: 102503 
+error: {"requestId":"4e0bd3d08f3f56f107e729af215eab15","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:38,236 - INFO - status code: 102503 
+error: {"requestId":"c9d85ac792d0ef1ade4fd375d462b547","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:38,927 - INFO - status code: 102503 
+error: {"requestId":"70a29d3b6052748fc0596c41a2814e49","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:39,162 - INFO - status code: 102503 
+error: {"requestId":"5537b92954d54d3d964ee81e8d195879","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:39,483 - INFO - status code: 102503 
+error: {"requestId":"d3f4746abd583e934c0cb9974ef4fd65","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:39,536 - INFO - status code: 102503 
+error: {"requestId":"bb167b767d535dd13b3f391927c1db24","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:39,900 - INFO - status code: 102503 
+error: {"requestId":"8d78666b742adb6bafb94170d5779b48","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:39,951 - INFO - status code: 102503 
+error: {"requestId":"c79303592253aba787991ceaa7a63bd5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:40,864 - INFO - status code: 102503 
+error: {"requestId":"d0484adb85ba6a47d51ab99e46d3b79e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:40,936 - INFO - status code: 102503 
+error: {"requestId":"f0eebe0bd8fd0569f3e14288941d5b40","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:41,182 - INFO - status code: 102503 
+error: {"requestId":"2470566f1f1f10ec343c17a92bd81f52","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:41,616 - INFO - status code: 102503 
+error: {"requestId":"fff31751ccb403b4b2036c4d3501126","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:41,844 - INFO - status code: 102503 
+error: {"requestId":"e442af528d6f740360ebc4e3a62df3c0","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:41,846 - INFO - status code: 102503 
+error: {"requestId":"afb9a9c494091489e2ac2b9988beec17","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:41,853 - INFO - status code: 102503 
+error: {"requestId":"fc1625160b4e8d67b04be8aad604bdfe","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:41,941 - INFO - status code: 102503 
+error: {"requestId":"3465227bacff21bd5ab2a51ced0ca1c3","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:42,217 - INFO - status code: 102503 
+error: {"requestId":"56f85989eeb069e1483a930fa2b05476","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:42,271 - INFO - status code: 102503 
+error: {"requestId":"326935bd30261f41f1b6fc688393c71","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:43,106 - INFO - status code: 102503 
+error: {"requestId":"628b637d726d4e2799a82fd85a6075bc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:43,201 - INFO - status code: 102503 
+error: {"requestId":"e6e52dc094771fb5ee7b0bc68cae0f02","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:43,368 - INFO - status code: 102503 
+error: {"requestId":"636c96bc4d2eda63fdf8a2979fe6782c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:43,769 - INFO - status code: 102503 
+error: {"requestId":"bde37ae7c53f8775c8659048ee24e22f","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:43,838 - INFO - status code: 102503 
+error: {"requestId":"2bca24ce6c6d4b7e4cabc2462deb4ca5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:44,243 - INFO - status code: 102503 
+error: {"requestId":"cf9aa9faede184beb38e261b300d4506","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:44,814 - INFO - status code: 102503 
+error: {"requestId":"779fa78c265eb71cc1648177fcf6d50e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:44,851 - INFO - status code: 102503 
+error: {"requestId":"4deb96c4e53e11a34955bb0c8bf3fabc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:44,994 - INFO - status code: 102503 
+error: {"requestId":"7df6010274dc62141a83a7fbc5170b09","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:45,035 - INFO - status code: 102503 
+error: {"requestId":"11a19443ed5d77ff8218c7d335cb5bc4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:45,043 - INFO - status code: 102503 
+error: {"requestId":"602668f4feb1d1d803c10a348aa103a6","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:45,138 - INFO - status code: 102503 
+error: {"requestId":"cc95fb15c8e96e9887b2442c0f946c73","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:45,457 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:45,666 - INFO - status code: 102503 
+error: {"requestId":"70aacef76e8cd3a337655afb7245dbf0","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:45,917 - INFO - status code: 102503 
+error: {"requestId":"a5ada1261aeed88e975a6fe7317d2926","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:45,920 - INFO - status code: 102503 
+error: {"requestId":"a3452561cd4260dccd850d0ceaae5770","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:45,954 - INFO - status code: 102503 
+error: {"requestId":"a9c7ab32eb91ffdebd13c14a97efc826","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:46,948 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:47,051 - INFO - status code: 102503 
+error: {"requestId":"df4598dee9d9857da938810f93a2c694","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:47,197 - INFO - status code: 102503 
+error: {"requestId":"deba4170d2d25573c3de91b330605d43","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:47,307 - INFO - status code: 102503 
+error: {"requestId":"65c8fac21c28a5bdf541e9ebffd08b86","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:47,747 - INFO - status code: 102503 
+error: {"requestId":"79200e9b9791f2584b809deb87a4cc9b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:48,319 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:48,397 - INFO - status code: 102503 
+error: {"requestId":"85dad15e6f007f6afbca608078300318","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:48,629 - INFO - status code: 102503 
+error: {"requestId":"4426fcbd560bbc4d2be28202181e8b41","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:48,776 - INFO - status code: 102503 
+error: {"requestId":"f59d970a12c2c7a396876349a0133259","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:49,173 - INFO - status code: 102503 
+error: {"requestId":"822dbccf0ac35a07f4800f597ccc0a7a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:49,881 - INFO - status code: 102503 
+error: {"requestId":"d0718d4426c7404d2f649dd62d7a7904","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:49,913 - INFO - status code: 102503 
+error: {"requestId":"1bbf7753bd85769e85ac9e70690895da","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:50,073 - INFO - status code: 102503 
+error: {"requestId":"423f05a442931b7cc4edc2cce3e6f48d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:50,506 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:50,563 - INFO - status code: 102503 
+error: {"requestId":"15698a9bcd4ce98e72a64484724599d2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:50,878 - INFO - status code: 102503 
+error: {"requestId":"a29f5f35c0838a698d3863d2f83149f","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:50,882 - INFO - status code: 102503 
+error: {"requestId":"6b5efd69ff768189522d203c5b1cde61","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:50,985 - INFO - status code: 102503 
+error: {"requestId":"3233c5e5b9a1e6668f679202dfdf389c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:51,219 - INFO - status code: 102503 
+error: {"requestId":"92608c40753585dc13e3a6fab6c3606d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:51,682 - INFO - status code: 102503 
+error: {"requestId":"a42ba6843092a54444ac0ddfea46ca56","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:51,683 - INFO - status code: 102503 
+error: {"requestId":"9f0f6ebf7bf0ac1adb0aec18d77d02dc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:52,167 - INFO - status code: 102503 
+error: {"requestId":"d28d55448bdeb450dca9d368a2b7d6a2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:52,340 - INFO - status code: 102503 
+error: {"requestId":"e9ac81dc3036ab5ab3878abf0178b927","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:52,619 - INFO - status code: 102503 
+error: {"requestId":"1a0eab2611823f9cca60dd55e03cd9d4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:53,638 - INFO - status code: 102503 
+error: {"requestId":"d15c459c16bfe419dc48831a17d73a66","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:53,762 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:53,823 - INFO - status code: 102503 
+error: {"requestId":"c0916ba0ccf38353679bbecbf869a5c3","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:53,857 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:53,875 - INFO - status code: 102503 
+error: {"requestId":"b5253a1d23050b487b9bdbac94a2fab7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:53,914 - INFO - status code: 102503 
+error: {"requestId":"5108e92c6293e016742cd0b9ca69605c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:54,111 - INFO - status code: 102503 
+error: {"requestId":"9245b01723b57d6be1f7edc4205168e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:54,150 - INFO - status code: 102503 
+error: {"requestId":"717e58e0660e2aa3a7eb3a904923cdd7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:54,692 - INFO - status code: 102503 
+error: {"requestId":"77f4bc665afec64500de21f8e1e47010","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:55,037 - INFO - status code: 102503 
+error: {"requestId":"ba341ff1798507e109376f3acc027c90","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:55,675 - INFO - status code: 102503 
+error: {"requestId":"ddfbd24df123ca54c12ae3364457048a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:55,693 - INFO - status code: 102503 
+error: {"requestId":"7ab3513fd127ecd747db2404c4cf116a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:56,087 - INFO - status code: 102503 
+error: {"requestId":"2a3fd20824febcc80b15548ce3a1e725","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:56,245 - INFO - status code: 102503 
+error: {"requestId":"7734a372c5c16828c2359a796fd2718a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:56,787 - INFO - status code: 102503 
+error: {"requestId":"461703210c8d22db6e5d04e443d1b9e9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:57,505 - INFO - status code: 102503 
+error: {"requestId":"990798300c516a00dcb878d580403324","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:57,832 - INFO - status code: 102503 
+error: {"requestId":"a0ab88c75c4bfe21e02a6e0dd1e5f9a5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:58,801 - INFO - status code: 102503 
+error: {"requestId":"48bd499a247a5048339c895dc41b9374","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:58,868 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:59,421 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:07:59,557 - INFO - status code: 102503 
+error: {"requestId":"c77133e9964add47f84c97f341d61b56","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:07:59,559 - INFO - status code: 102503 
+error: {"requestId":"201a00b6d594f3caffe9736d5c1c661a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:00,339 - INFO - status code: 102503 
+error: {"requestId":"5df9432fed0e3a9acc5af48b7774d94b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:00,804 - INFO - status code: 102503 
+error: {"requestId":"9039c4736ea5eb7bc2dd38615b4e9816","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:01,583 - INFO - status code: 102503 
+error: {"requestId":"fa7eac7aae9c378906cd997e73abbfdb","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:02,022 - INFO - status code: 102503 
+error: {"requestId":"5d2d532741572f8899afad76fc1902c4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:02,327 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:08:02,861 - INFO - status code: 102503 
+error: {"requestId":"e4c4f19ef4e15c0c8a78d9b830902131","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:03,003 - INFO - status code: 102503 
+error: {"requestId":"db7b496adf61fcb7384da719a16f5433","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:04,455 - INFO - status code: 102503 
+error: {"requestId":"77abdf24e6ae23b02265636eb6d1514f","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:04,763 - INFO - status code: 102503 
+error: {"requestId":"ccf5eed2762258fa2a66e9d190fcf01b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:05,872 - INFO - status code: 102503 
+error: {"requestId":"6b044c65658ab646db25bb742b711f5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:06,012 - INFO - status code: 102503 
+error: {"requestId":"5eabd1015130f4ae55c240ea172d3f4b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:06,284 - INFO - status code: 102503 
+error: {"requestId":"70160e2d8144ff563679c3d90de53a05","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:06,304 - INFO - status code: 102503 
+error: {"requestId":"81f93be3f518fc9c7b18c8d58de99cae","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:07,164 - INFO - status code: 102503 
+error: {"requestId":"b6f463254f272a005209b0a8019c6eb4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:07,168 - INFO - status code: 102503 
+error: {"requestId":"9b823c8b7361fe6a61de7c7a708f37a2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:07,947 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:08:08,309 - INFO - status code: 102503 
+error: {"requestId":"506a7c81b6ee99852ea0a1459680e251","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:08,510 - INFO - status code: 102503 
+error: {"requestId":"79a9aefada890581dc7c4068660c4459","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:08,531 - INFO - status code: 102503 
+error: {"requestId":"273126bb7279f4101341e8197b1ab606","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:08,882 - INFO - status code: 102503 
+error: {"requestId":"430fba229c53eb6b2afe7cfbd3a383fa","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:09,167 - INFO - status code: 102503 
+error: {"requestId":"20cb18250226f416083836074a293c4c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:10,157 - INFO - status code: 102503 
+error: {"requestId":"5d0e2ca2c19439d4f5cbd8607b791501","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:10,315 - INFO - status code: 102503 
+error: {"requestId":"d4761c4b4dc23b3a2c1c01b5e62348cb","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:11,235 - INFO - status code: 102503 
+error: {"requestId":"4ed52a1632559ac2c16143a7c870ad56","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:11,465 - INFO - status code: 102503 
+error: {"requestId":"b2c16a088b3f0f993647a02924a56977","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:11,577 - INFO - status code: 102503 
+error: {"requestId":"4618407ecae0bd2a8ef2b340c01a264a","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:11,613 - INFO - status code: 102503 
+error: {"requestId":"8e7faa78d0841e89a8d519c9c8750368","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:11,836 - INFO - status code: 102503 
+error: {"requestId":"42bb4e300b562706978e49da7fa23bfe","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:12,210 - INFO - status code: 102503 
+error: {"requestId":"682afc187ad251d2740b8688b1fce84d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:12,503 - INFO - status code: 102503 
+error: {"requestId":"fabc861a464788ceb1c90b3d86505109","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:12,621 - INFO - status code: 102503 
+error: {"requestId":"ea5e5adc9b152c8d4c81621f8ef10e38","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:14,344 - INFO - status code: 102503 
+error: {"requestId":"3bd08dec80a91e856161ea4bce1affde","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:14,986 - INFO - status code: 102503 
+error: {"requestId":"8e65c739a3307e25dd9f340670c89d51","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:15,977 - INFO - status code: 102503 
+error: {"requestId":"e33866ad1c80ca1f0f329bfcb972a6b1","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:16,003 - INFO - status code: 102503 
+error: {"requestId":"6412379a005e306a9f7bcbf252c62d68","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:16,760 - INFO - status code: 102503 
+error: {"requestId":"3604b2959e4d32f0a4f9dc0cbfa8371d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:16,784 - INFO - status code: 102503 
+error: {"requestId":"3b44c72311c21a413ee0028d1449c19c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:21,043 - INFO - status code: 102503 
+error: {"requestId":"e937bfedb6c8eaf15800319faabc0bbd","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:21,169 - INFO - status code: 102503 
+error: {"requestId":"bae67e75f9dfb20d1374b29e06506947","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:23,109 - INFO - status code: 102503 
+error: {"requestId":"ef755f7fa6c311c8265951d007d62bbf","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:23,271 - INFO - status code: 102503 
+error: {"requestId":"46e6b5dac300b2f179d3bbe3c24b257a","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:25,431 - INFO - status code: 102503 
+error: {"requestId":"99f29f35b3bc1c28a432e50397cee322","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:26,816 - INFO - status code: 102503 
+error: {"requestId":"df90e6f036064dd2799284ebdb3de2ec","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:26,988 - INFO - status code: 102503 
+error: {"requestId":"3b46ca94e491d5aa16775fc8e992fb2e","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:27,106 - INFO - status code: 102503 
+error: {"requestId":"9a906c9438eddd2beaba4cb94fefa5a2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:29,342 - INFO - status code: 102503 
+error: {"requestId":"2d59a63db6f968ab021f5d69ef2eeaf8","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:30,728 - INFO - status code: 102503 
+error: {"requestId":"f3c4f535387803a109d32c160aaecc09","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:48,627 - INFO - status code: 102503 
+error: {"requestId":"417721bf0412b636be0555dd8afa597d","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:49,394 - INFO - status code: 102503 
+error: {"requestId":"8813c40690bfe9542a87f3f0529db82","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:52,084 - INFO - status code: 102503 
+error: {"requestId":"5edef834352f315cae4a14f2a43a78bc","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:08:52,587 - INFO - status code: 102503 
+error: {"requestId":"bd498f7ce4aa28ad8cfecf696f233aa4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:53,301 - INFO - status code: 102503 
+error: {"requestId":"ebc9ebc378a617d0bc6aa4d33358f9f5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:56,048 - INFO - status code: 102503 
+error: {"requestId":"d47f4545ea7d5c25b440440f58451783","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:56,295 - INFO - status code: 102503 
+error: {"requestId":"4ccd67e9149476c10dc5ebbce37d748e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:08:57,292 - INFO - status code: 102503 
+error: {"requestId":"c9e06ec874f6ead214f5f898f46f8a5d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:00,958 - INFO - status code: 102503 
+error: {"requestId":"b12c14f61fdf7746471b479c0ae02947","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:04,263 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,266 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,266 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,267 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,267 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,268 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,272 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,272 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,273 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,274 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:04,910 - INFO - status code: 102503 
+error: {"requestId":"43a02666f1e9922c3238b2c5a93b7f0c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:07,453 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:07,454 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:09,930 - INFO - status code: 102503 
+error: {"requestId":"2a9210a6013fb951df72f37a8e93af72","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:09,958 - INFO - status code: 102503 
+error: {"requestId":"bae955d07a8faee4903169332ce46625","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:10,057 - INFO - status code: 102503 
+error: {"requestId":"5dbad61ccd3952ff84f4f8f56fadd5b7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:10,249 - INFO - status code: 102503 
+error: {"requestId":"a3902a86d27bbbe3a2d71217da0d78c2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:10,263 - INFO - status code: 102503 
+error: {"requestId":"d46b8b347b46949f90eb2232428dec49","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:10,275 - INFO - status code: 102503 
+error: {"requestId":"cace2b7868d2a359da005e3dceafa627","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:10,280 - INFO - status code: 102503 
+error: {"requestId":"1864c58879392273d369d21f8a8c2024","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:10,449 - INFO - status code: 102503 
+error: {"requestId":"ac6e28b73a32957e5d335c757f5eb944","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:10,466 - INFO - status code: 102503 
+error: {"requestId":"82a6ba3849a47fb374b0ea74f7be4c78","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:11,358 - INFO - status code: 102503 
+error: {"requestId":"a042d3652f996507502ed3272afe8fd5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:11,487 - INFO - status code: 102503 
+error: {"requestId":"4992741f99fc40cf33058f4cbc066d27","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,063 - INFO - status code: 102503 
+error: {"requestId":"d6bef45d59b6929a6d82d6e8f5a8bcfb","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,298 - INFO - status code: 102503 
+error: {"requestId":"309f7b1e78e6a0d8d8a66bb02d2b4149","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,300 - INFO - status code: 102503 
+error: {"requestId":"c4b5f04d9e6f98ffa4d6d29e7f762219","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,308 - INFO - status code: 102503 
+error: {"requestId":"53875cac6a3725f544e1850304a81bd9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,333 - INFO - status code: 102503 
+error: {"requestId":"330bca1db054fd902f2261e71201a4d9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,359 - INFO - status code: 102503 
+error: {"requestId":"b80b2d36ef3415d50b3e27bf542e2259","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,428 - INFO - status code: 102503 
+error: {"requestId":"3235a74c99bc31a16e40701e72a3d30c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,459 - INFO - status code: 102503 
+error: {"requestId":"b669229aa1ef653d0f651990ffb7b768","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,870 - INFO - status code: 102503 
+error: {"requestId":"f6785793b85e6a7dff5b5f53bdfcc965","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:13,967 - INFO - status code: 102503 
+error: {"requestId":"fd2012bf11970d7a1619b69e87f5df66","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:14,168 - INFO - status code: 102503 
+error: {"requestId":"6a7e9e9c726f254983aff53170042925","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:14,197 - INFO - status code: 102503 
+error: {"requestId":"af1c344d99fffbba95beeabd479603d5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:14,428 - INFO - status code: 102503 
+error: {"requestId":"457bb4c6b89475d4a5643c1c26ada5ba","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:15,397 - INFO - status code: 102503 
+error: {"requestId":"6bd3e5ba0ccb4ef6916beb6a3043e74a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:15,416 - INFO - status code: 102503 
+error: {"requestId":"6db75db355f0471c6bfce963ee2563b0","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:17,087 - INFO - status code: 102503 
+error: {"requestId":"1b4dc69af53c9e3f90f43f10357de943","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:17,129 - INFO - status code: 102503 
+error: {"requestId":"715c73c70e6ba1e017d1eac40ec46289","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:17,197 - INFO - status code: 102503 
+error: {"requestId":"e3905e850c638b7f1874af4ef3e824d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:17,217 - INFO - status code: 102503 
+error: {"requestId":"411a9dcb60ed174b3b4fb7dfb81aad19","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:17,265 - INFO - status code: 102503 
+error: {"requestId":"2bca93aad1482e3705e220ccc5cf51a5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:17,359 - INFO - status code: 102503 
+error: {"requestId":"947c8409a00b03ce8caeec32f89cef16","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:17,916 - INFO - status code: 102503 
+error: {"requestId":"846b8c914c7c9e4c1ad055b403eb7aa4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:18,434 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:18,503 - INFO - status code: 102503 
+error: {"requestId":"f3318a3765a2c691027a41ef2b9be224","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:18,583 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:18,989 - INFO - status code: 102503 
+error: {"requestId":"4a5a3877d6e496fff2f34278a3499057","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:19,178 - INFO - status code: 102503 
+error: {"requestId":"6284bef2305a1a9cc587d46bacd7dcbd","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:19,210 - INFO - status code: 102503 
+error: {"requestId":"b7cc07832b90f7426613dc445ec8f83e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:19,260 - INFO - status code: 102503 
+error: {"requestId":"c7845fc6694dd6f44679ee628c621be6","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:19,558 - INFO - status code: 102503 
+error: {"requestId":"e736b2f71563fbeaad3b06cb4da25c0c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:20,989 - INFO - status code: 102503 
+error: {"requestId":"bdb1839d56b10e57163006b333adb1a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:21,062 - INFO - status code: 102503 
+error: {"requestId":"b5290a4f91af699c9e33f7c5d16a1de7","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:21,094 - INFO - status code: 102503 
+error: {"requestId":"7808247c204fea2ef758a6b184305231","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:21,222 - INFO - status code: 102503 
+error: {"requestId":"60790e2e2b4ed407f5861adec032e3dc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:21,314 - INFO - status code: 102503 
+error: {"requestId":"70fff2d420381e682081f335ea16ce3a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:21,438 - INFO - status code: 102503 
+error: {"requestId":"8bc8376fe1ed72db242888dc41c1bf85","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:22,341 - INFO - status code: 102503 
+error: {"requestId":"2c1badb52fd6032b3141d81bdaa35c2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:22,366 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:22,405 - INFO - status code: 102503 
+error: {"requestId":"47231783ec79aa9cf2b772f4f13ff80","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:22,492 - INFO - status code: 102503 
+error: {"requestId":"b311d4d4597e55ea53e028f2630d0981","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:22,534 - INFO - status code: 102503 
+error: {"requestId":"9873a80bc867a5d5319c239cc798cd24","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:22,589 - INFO - status code: 102503 
+error: {"requestId":"8a1ec6a9cc13f3a70ec0c91d226ec787","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:22,606 - INFO - status code: 102503 
+error: {"requestId":"c2da115205aacdf4c5ffeaea9e48e06c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:24,243 - INFO - status code: 102503 
+error: {"requestId":"94b808615ce2f2562972d08a0bd2e8b1","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:24,406 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:24,891 - INFO - status code: 102503 
+error: {"requestId":"cb5413e5a26f925f13a93b3d44a974bc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:24,915 - INFO - status code: 102503 
+error: {"requestId":"8dc9745dfba591f15a6dba09b23c460c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:25,076 - INFO - status code: 102503 
+error: {"requestId":"6ea605e754aaf946545b04e646dee532","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:25,351 - INFO - status code: 102503 
+error: {"requestId":"a38623ee7b54f06c41c0c14bf61db2ac","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:25,709 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:26,223 - INFO - status code: 102503 
+error: {"requestId":"5d71fcf67b86dce9d4dc6854c528352e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:26,302 - INFO - status code: 102503 
+error: {"requestId":"8867b01ec24176a800e9b010266eb167","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:26,317 - INFO - status code: 102503 
+error: {"requestId":"b652353a72a87540b17b07de831a382","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:26,331 - INFO - status code: 102503 
+error: {"requestId":"6fd108e9190d52ae894a0679c5e0cb9b","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:26,453 - INFO - status code: 102503 
+error: {"requestId":"f9d1f5876d4ba9dba667cbffc03d0d6e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:28,091 - INFO - status code: 102503 
+error: {"requestId":"6e1cb580ecccc69d84523c352a19f9e6","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:28,138 - INFO - status code: 102503 
+error: {"requestId":"db3af1328e90563e87c2d53651ecd7e9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:28,571 - INFO - status code: 102503 
+error: {"requestId":"1371ef17cbef7520bf3d447f13223ea5","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:28,642 - INFO - status code: 102503 
+error: {"requestId":"e6c2e900d0a5cc42b5c7c4fbe0b08df5","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:29,271 - INFO - status code: 102503 
+error: {"requestId":"9882e06064046d73e7bf81cf7848ddfa","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:29,496 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:29,995 - INFO - status code: 102503 
+error: {"requestId":"ea61704e0a8865843183b8de4fba27b0","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:31,030 - INFO - HTTPSConnectionPool(host='llm-center.ali.modelbest.cn', port=443): Max retries exceeded with url: /llm/client/conv/createConv (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6c7441a260>: Failed to resolve 'llm-center.ali.modelbest.cn' ([Errno -3] Temporary failure in name resolution)"))
+2024-05-18 01:09:31,840 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:31,988 - INFO - status code: 102503 
+error: {"requestId":"ef29c831b58f6ab0ccc3a0f4a6a737ae","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:32,030 - INFO - status code: 102503 
+error: {"requestId":"80ddff01f4def804337387d88ba6f501","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:33,174 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:09:34,053 - INFO - status code: 102503 
+error: {"requestId":"526716fdab789cc7fdc5fa7a6b2f1685","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:34,976 - INFO - status code: 102503 
+error: {"requestId":"2a060604e0a91347c770f4818026e1ee","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:35,761 - INFO - status code: 102503 
+error: {"requestId":"59675b48506986a61d32ea5c7c070177","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:35,905 - INFO - status code: 102503 
+error: {"requestId":"c1018d78c1a1eaa571b097cad4f5ef2c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:36,470 - INFO - status code: 102503 
+error: {"requestId":"fb09598afa4ab99b37a8de96c4fcbe2","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:37,132 - INFO - status code: 102503 
+error: {"requestId":"f31b0992929cf3603864f456dae474d8","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:37,374 - INFO - status code: 102503 
+error: {"requestId":"f9e13a13635ec225362db66ff64cfb90","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:37,641 - INFO - status code: 102503 
+error: {"requestId":"8e85893f9455a1d2ed1ae9f2641cced4","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:37,711 - INFO - status code: 102503 
+error: {"requestId":"5fdbc9a79e0caf30f5b43fbb705b1c93","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:38,660 - INFO - status code: 102503 
+error: {"requestId":"8cf6b2a2f0d088efae8b9a9d0397ba54","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:39,184 - INFO - status code: 102503 
+error: {"requestId":"c1d6f9e4edca0c719db716b287ae32cf","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:39,770 - INFO - status code: 102503 
+error: {"requestId":"ea498a0c23949815acaaeaaa20862828","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:39,786 - INFO - status code: 102503 
+error: {"requestId":"a6809925a553c6f815ba8dc1925db179","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:39,861 - INFO - status code: 102503 
+error: {"requestId":"dbc70a651108680adb597d39236c54bc","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:39,867 - INFO - status code: 102503 
+error: {"requestId":"4dfe7076cb4bf7c1c0dc40cde33fc30e","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:39,886 - INFO - status code: 102503 
+error: {"requestId":"3897d573fe8787a0c24648f61821aa49","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:39,898 - INFO - status code: 102503 
+error: {"requestId":"2bedc84e6af4263490cbee2fa6304519","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:40,261 - INFO - status code: 102503 
+error: {"requestId":"9aa558da76a60a838f3ca4cb691b7ed1","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:40,495 - INFO - status code: 102503 
+error: {"requestId":"d6809b98537e4686445a8626218aff54","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:40,907 - INFO - status code: 102503 
+error: {"requestId":"c05daa4b99f6ea2c6cc1b4a47c1993a8","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:41,029 - INFO - status code: 102503 
+error: {"requestId":"1234bc0c6e31f39108cb5e1b26577236","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:41,498 - INFO - status code: 102503 
+error: {"requestId":"43bdb72b99d95e786aec193af0d023e0","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:42,340 - INFO - status code: 102503 
+error: {"requestId":"8d5c47703c14b7ef598840278d636276","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:42,931 - INFO - status code: 102503 
+error: {"requestId":"acd27d39159c6676ecffcd907fb1bf62","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:44,052 - INFO - status code: 102503 
+error: {"requestId":"c7efb6ed12cf075c64a1b3a4d2bed567","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:44,066 - INFO - status code: 102503 
+error: {"requestId":"5c6bbb017ef869595ec77edc2a4d979f","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:44,442 - INFO - status code: 102503 
+error: {"requestId":"d0487cc0d59ca6f94d8e66a08d171eac","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:45,415 - INFO - status code: 102503 
+error: {"requestId":"6beb764e149a0d42c8439818ec6eb02c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:46,080 - INFO - status code: 102503 
+error: {"requestId":"71a91ee3fba2a519b8a54e1403500c8e","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:46,522 - INFO - status code: 102503 
+error: {"requestId":"e3bc63462e67ba62403aa8a21361e6d8","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:47,080 - INFO - status code: 102503 
+error: {"requestId":"8968e53be487bba8de9f587c5cc61d89","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:47,960 - INFO - status code: 102503 
+error: {"requestId":"bf45829858ff476dcd21b4fd38f952c4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:48,315 - INFO - status code: 102503 
+error: {"requestId":"3e9f223fc36c16746f17238d7850ace2","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:48,522 - INFO - status code: 102503 
+error: {"requestId":"c04c419c9c2c9c741aa296d80386c8d2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:49,483 - INFO - status code: 102503 
+error: {"requestId":"5b3f065e53761a32a4df5ea53ec7c88c","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:49,615 - INFO - status code: 102503 
+error: {"requestId":"13f90636d359125cf75f5a2c636d4918","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:50,330 - INFO - status code: 102503 
+error: {"requestId":"e28aca8b7bf6f86e7c5027c2e7c9f76e","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:50,972 - INFO - status code: 102503 
+error: {"requestId":"24d2d50844ff75bbcf7d24c8d614f7e9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:51,423 - INFO - status code: 102503 
+error: {"requestId":"62beda338f3a697eef570232d8ab75e1","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:51,929 - INFO - status code: 102503 
+error: {"requestId":"fefde2b0969de0aa09f4df49b848bc88","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:52,174 - INFO - status code: 102503 
+error: {"requestId":"866abec4d79e75c624d975fe69d8ab85","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:52,861 - INFO - status code: 102503 
+error: {"requestId":"74fadb24fb5ad70a5de16e92369028f4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:52,995 - INFO - status code: 102503 
+error: {"requestId":"d58b3f603c84de405f6968be8ba31a9d","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:53,754 - INFO - status code: 102503 
+error: {"requestId":"c6858766cd662fd0312a555acb7c016e","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:54,044 - INFO - status code: 102503 
+error: {"requestId":"594cffb7dfe9a57a1ca64cb1b8b14447","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:54,102 - INFO - status code: 102503 
+error: {"requestId":"c438b613442f5c337f974a7513a0ff74","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:54,331 - INFO - status code: 102503 
+error: {"requestId":"b4a4688da8cdeea6179323782025d8ba","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:54,439 - INFO - status code: 102503 
+error: {"requestId":"adb5f1a79032913417e600dfba713df4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:55,141 - INFO - status code: 102503 
+error: {"requestId":"4f0e0475ec1321a681b58b8e39bd1950","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:56,083 - INFO - status code: 102503 
+error: {"requestId":"c251262d2ee67e4fc5a3e125f005c37","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:56,644 - INFO - status code: 102503 
+error: {"requestId":"20cb02dab11cc5e79a5f2b99ee78098a","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:57,014 - INFO - status code: 102503 
+error: {"requestId":"9b21229b7b6c6329ce47785829d92aef","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:09:57,304 - INFO - status code: 102503 
+error: {"requestId":"b298fe9f4feb3d7df6ead69b66ba4482","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:09:59,038 - INFO - status code: 102503 
+error: {"requestId":"114ee1f2438d61728e3dd48ffb257bf","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:00,313 - INFO - status code: 102503 
+error: {"requestId":"c2d1a6e52b34e92b434d7b2b60bc3eab","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:00,659 - INFO - status code: 102503 
+error: {"requestId":"9ae4f475fd85096ab359f7580ac4d5c9","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:00,941 - INFO - status code: 102503 
+error: {"requestId":"831bb7fdd142800186537b37d53f8625","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:01,327 - INFO - status code: 102503 
+error: {"requestId":"2fdc0da762ed4c32a14c452ce5b2553f","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:02,954 - INFO - status code: 102503 
+error: {"requestId":"b95e3d7285139bc261be18094f52481","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:04,834 - INFO - status code: 102503 
+error: {"requestId":"9a7fe1f820189b0624b9cdd3aa3716d4","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:05,306 - INFO - status code: 102503 
+error: {"requestId":"2dd22ee6f291d50dd38f6c5df77b0a2","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:07,379 - INFO - status code: 102503 
+error: {"requestId":"b4a7ef4e4b72deab0b105035987eb696","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:11,656 - INFO - status code: 102503 
+error: {"requestId":"ca20775c3be400802a9601f911349185","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:15,504 - INFO - status code: 102503 
+error: {"requestId":"17ec94beb4f8af9b833aadb30d7ee0c0","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:15,583 - INFO - status code: 102503 
+error: {"requestId":"4bcaf6daf817d9cc4d7df6249b54f839","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:16,790 - INFO - status code: 102503 
+error: {"requestId":"e42d8790b7d4734ebaaf7ab6319fe1f6","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:19,611 - INFO - status code: 102503 
+error: {"requestId":"d45593c8c79951c740ddc66ce21ea705","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:19,672 - INFO - status code: 102503 
+error: {"requestId":"aa491f87a3477626e9d193e3f42e3425","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:23,623 - INFO - status code: 102503 
+error: {"requestId":"3f7e2df63780a766b2c57f809b2a525d","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:23,642 - INFO - status code: 102503 
+error: {"requestId":"f84f32dcc73a7b8a523027434d602c6c","code":102503,"message":"code:invalid_base64, message:Invalid base64 image_url., type=invalid_request_error, param=null","data":null}

@@ -1,0 +1,5 @@
+Panel 1: Dieses Panel zeigt ein Smartphone, das einem iPhone ähnelt, mit einem weißen VGA-Kabel, das in seinem Ladeport angeschlossen ist. Der VGA-Anschluss ist blau. Das Telefon hat einen Glas-Schutzfilm und ist in einem Schutzgehäuse untergebracht.
+
+Panel 2: Dieses Panel zeigt ein Produkt-Paket, das einen VGA-Anschluss ähnelt, wie er in der ersten Panel zu sehen ist. Das Unternehmen ist ELECOM, und die spezifische Serie ist die P-APLTDCN. Am unteren Ende des Pakets befindet sich ein grüner Aufkleber mit der Aufschrift, "Für Lightning-Kabel".
+
+Panel 3: Das letzte Panel ist eine Oberansicht des Anschlusses, der ähnlich wie die vorherigen Panels aussieht. In diesem Panel ist der eigentliche Anschluss sichtbar, was enthüllt, dass es tatsächlich ein Lightning-Anschluss ist.

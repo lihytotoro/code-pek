@@ -1,0 +1,7 @@
+Dieser Meme ist lustig, weil er die Unterschiede in Komplexität und Fachjargon zwischen zwei Ansätzen der maschinellen Lernverfahren hervorhebt: statistische Lernverfahren und neuronale Netze.
+
+Oben auf dem Meme ist ein Mensch zu sehen, der statistische Lernverfahren diskutiert. Er verwendet Fachbegriffe wie "VC-Dimension", "Kernel", "strukturales Risiko" und "weiche Marke". Der Text und die besorgte Miene des Menschen suggerieren, dass diese Vorgehensweise eine tiefe Verständnis der verschiedenen Konzepte erfordert und deshalb kompliziert und anspruchsvoll wirkt.
+
+Im Gegensatz dazu zeigt die untere Hälfte des Memes einen Menschen mit einem glücklichen Ausdruck, der über neuronale Netze spricht. Die dort gegebene Rat ist einfach, "mehr Schichten zu stapeln", was bedeutet, mehr Schichten in einem neuronalen Netzwerk-Modell hinzuzufügen, um seine Leistung zu verbessern. Diese Seite des Memes macht sich über die wahrgenommene Einfachheit neuronaler Netze gegenüber statistischen Lernverfahren lustig.
+
+Der Humor kommt von der übertriebenen Einfachheit des Ansatzes neuronaler Netze im Vergleich zur komplexen Fachsprache statistischer Lernverfahren, was nahelegt, dass Praktiker von neuronalen Netzen möglicherweise nicht denselben Grad an Fachwissen benötigen wie jene, die statistische Lernverfahren anwenden. Der Text "aber unironisch" suggeriert, dass dies ein genuine Beobachtung im Fach ist, was den Humor verstärkt.

@@ -1,0 +1,6 @@
+Las condiciones actuales del tráfico pueden observarse a través de los siguientes indicadores:
+
+1. El número de vehículos en cada sección de la autopista: Hay muchos vehículos en las secciones de cuatro carriles, mientras que el tráfico es ligero en las secciones de tres carriles.
+2. Luces de freno: La mayoría de los vehículos en la sección de cuatro carriles que se alejan de la cámara tienen las luces de freno encendidas, lo que indica una posible ralentización o congestión en esa sección.
+3. Ocupación de carriles: Las secciones de cuatro carriles parecen tener un tráfico más denso en comparación con las secciones de tres carriles.
+4. Iluminación: Las luces a lo largo de la autopista están iluminadas, lo que indica que la imagen se tomó de noche, lo que también puede afectar las condiciones del tráfico dependiendo de la hora y el área.

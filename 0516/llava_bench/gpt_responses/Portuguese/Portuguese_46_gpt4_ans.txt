@@ -1,0 +1,79 @@
+Aqui está um exemplo de código HTML e JavaScript que transforma o mock-up em um site web colorido com duas piadas reais:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Joke Website</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 20px;
+    }
+    .container {
+        background-color: #fff;
+        border-radius: 5px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .joke {
+        margin-bottom: 20px;
+    }
+    .punchline {
+        display: none;
+        color: #333;
+        margin-top: 10px;
+    }
+    .reveal-btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .footer {
+        margin-top: 30px;
+        text-align: center;
+        color: #888;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>My Joke Website</h1>
+    <div class="joke">
+        <div>Why don't scientists trust atoms?</div>
+        <button class="reveal-btn" onclick="revealPunchline(this)">Reveal Punchline</button>
+        <div class="punchline">Because they make up everything!</div>
+    </div>
+    <div class="joke">
+        <div>What do you call fake spaghetti?</div>
+        <button class="reveal-btn" onclick="revealPunchline(this)">Reveal Punchline</button>
+        <div class="punchline">An impasta!</div>
+    </div>
+</div>
+<div class="footer">
+    &copy; OpenAI 2023
+</div>
+
+<script>
+function revealPunchline(button) {
+    var punchline = button.nextElementSibling;
+    if (punchline.style.display === 'none') {
+        punchline.style.display = 'block';
+    } else {
+        punchline.style.display = 'none';
+    }
+}
+</script>
+</body>
+</html>
+```
+
+Este código cria uma página web com um cabeçalho, duas piadas e um botão para revelar a resposta (punchline) de cada piada. Estilização básica é aplicada para tornar a página mais visualmente atraente. O JavaScript é usado para alternar a visibilidade da resposta quando o botão correspondente é clicado.

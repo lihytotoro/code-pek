@@ -1,0 +1,7 @@
+Este meme é engraçado porque destaca a diferença de complexidade e jargão entre dois abordagens de aprendizado automático: o aprendizado estatístico e as redes neurais.
+
+Na metade superior, o meme apresenta uma pessoa discutindo sobre o aprendizado estatístico. Ela utiliza termos técnicos como "dimensão de VC", "núcleo", "risco estrutural" e "margem flexível". O texto e a expressão preocupada da pessoa sugerem que essa abordagem requer uma compreensão profunda de vários conceitos, o que a torna aparentemente complicada e difícil.
+
+Já na metade inferior, uma pessoa com uma expressão feliz está falando sobre as redes neurais. O conselho dado aqui é simplesmente "adicione mais camadas", fazendo referência ao aumento de camadas em um modelo de rede neural para melhorar suas performances. Essa parte do meme zomba da simplicidade percebida das redes neurais em relação ao aprendizado estatístico.
+
+O humor vem da exageração da simplicidade da abordagem das redes neurais em relação ao jargão complexo do aprendizado estatístico, o que implica que os praticantes das redes neurais não precisariam do mesmo nível de expertise que aqueles que trabalham com métodos de aprendizado estatístico. O texto "mas sem ironia" sugere que é uma observação autêntica do domínio, o que adiciona ao humor.

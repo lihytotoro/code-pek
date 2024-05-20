@@ -1,0 +1,7 @@
+Il s'agit d'un croquis fait à la main représentant le concept d'une page web dédiée à des blagues. En haut de la page, on peut lire le titre "My Joke website" écrit en lettres majuscules et manuscrites. En dessous du titre, deux sections sont visibles, chacune contenant le texte d'une blague suivie de l'instruction "Push to reveal punchline", suggérant qu'il y aurait un mécanisme ou un bouton interactif sur le site web final qui permettrait de révéler la chute de la blague.
+
+La première blague est légendée "Really funny joke 1" et la seconde "Same, but joke 2", indiquant qu'il s'agit d'un exemple de contenu et que la deuxième blague suit le même format que la première.
+
+En bas de la page, on trouve la mention "© OpenAI 2023" écrite en script, ce qui pourrait être une signature ou une marque de copyright fictive pour le croquis.
+
+Le croquis est dessiné sur une feuille de papier blanche avec un cadre qui suggère la forme d'une tablette ou d'un écran d'ordinateur. Les lignes sont tracées de manière à donner une impression de profondeur à la "page", avec les coins inférieurs légèrement courbés vers l'extérieur.

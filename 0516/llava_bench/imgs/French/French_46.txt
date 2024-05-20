@@ -1,0 +1,1 @@
+Créez un code HTML/JS pour transformer ce mock-up en un site web coloré, où les blagues sont remplacées par deux blagues réelles.

@@ -1,0 +1,70 @@
+Pour transformer ce mock-up en un site web, voici un exemple de code HTML avec du JavaScript incorporé pour rendre le bouton interactif et afficher la chute de la plaisanterie lorsque le bouton est cliqué :
+
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mon Site de Blagues</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    #container {
+        background-color: white;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+    #jokeSetup {
+        margin: 20px 0;
+        font-size: 1.5em;
+    }
+    #jokePunchline {
+        display: none;
+        margin-top: 20px;
+        font-size: 1.2em;
+        color: #555;
+    }
+    button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1em;
+        border-radius: 5px;
+        cursor: pointer;
+        outline: none;
+    }
+    button:hover {
+        background-color: #0056b3;
+    }
+</style>
+</head>
+<body>
+<div id="container">
+    <h1>Mon Site de Blagues</h1>
+    <div id="jokeSetup">Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?</div>
+    <button onclick="revealPunchline()">Révéler la chute</button>
+    <div id="jokePunchline">Parce que sinon ils tombent toujours dans le bateau !</div>
+</div>
+
+<script>
+function revealPunchline() {
+    document.getElementById("jokePunchline").style.display = "block";
+}
+</script>
+</body>
+</html>
+```
+
+Ce code crée une page web avec une mise en page et un style basiques. Lorsque l'utilisateur clique sur le bouton, la fonction `revealPunchline()` est exécutée, ce qui change le style de l'élément contenant la chute de la blague pour le rendre visible. Vous pouvez personnaliser la blague, les couleurs, les polices, et d'autres styles CSS selon vos préférences.

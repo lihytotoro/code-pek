@@ -1,0 +1,51 @@
+Hier ist ein einfaches HTML- und JavaScript-Code-Beispiel, um die Sketch-basierte Witze-Website zu erstellen:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mein Witze-Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: hellblau;
+            text-align: center;
+        }
+        h1 {
+            color: dunkelblau;
+            margin-bottom: 50px;
+        }
+        p#joke {
+            font-size: 24px;
+            color: dunkelgrün;
+            margin-bottom: 30px;
+        }
+        button {
+            font-size: 18px;
+            color: weiß;
+            background-color: dunkelorange;
+            padding: 10px 20px;
+            cursor: pointer;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mein Witze-Website</h1>
+    <p id="joke">Humorvolles Witze</p>
+    <button onclick="getJoke()">Drücken Sie, um die Pointe zu enthüllen</button>
+
+    <script>
+        async function getJoke() {
+            const response = await fetch('https://api.chucknorris.io/jokes/random');
+            const data = await response.json();
+            document.getElementById('joke').innerHTML = data.value;
+        }
+    </script>
+</body>
+</html>
+```
+
+Dieser Code-Snippet erstellt eine einfache farbenfrohe Webseite mit einem Titel "Mein Witze-Website", einem Platzhalter für ein Witze und einem Schaltfläche, um die Pointe zu enthüllen. Es holt ein Witze von der Chuck Norris Jokes-API (https://api.chucknorris.io/jokes/random) ab, wenn der Benutzer auf die Schaltfläche klickt.

@@ -1,0 +1,3 @@
+Processed /home/lihaoyu/code/0516/llava_bench/imgs/Portuguese/Portuguese_59.jpg
+Processed /home/lihaoyu/code/0516/llava_bench/imgs/Portuguese/Portuguese_34.jpg
+Processed /home/lihaoyu/code/0516/llava_bench/imgs/Portuguese/Portuguese_56.jpg

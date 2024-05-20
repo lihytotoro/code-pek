@@ -1,0 +1,51 @@
+Aqui está o código HTML/JS simples e colorido para criar um site web divertido usando o Sketch Notebook com duas piadas reais:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Web Site of Jokes</title>
+  <style>
+    body {
+      background-color : lightblue;
+      text-align : center;
+      font-family : Arial, sans-serif;
+    }
+    h1 {
+      color : purple;
+    }
+    button {
+      background-color : orange;
+      color : white;
+      font-size : 1.2em;
+      margin-top : 10px;
+      padding : 10px;
+      border : none;
+      cursor : pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Web Site of Jokes</h1>
+  <p id="joke1">Why don't we ever hear secrets about a farm?</p>
+  <button onclick="showPunchline('punchline1')">Click to reveal the punchline</button>
+  <p id="punchline1" hidden>Because potatoes have eyes and corn has ears!</p>
+
+  <p id="joke2">Why don't scientists trust atoms?</p>
+  <button onclick="showPunchline('punchline2')">Click to reveal the punchline</button>
+  <p id="punchline2" hidden>Because they make up everything!</p>
+
+  <p>Copyright OpenAI 2023</p>
+
+  <script>
+    function showPunchline(punchlineId) {
+      document.getElementById(punchlineId).hidden = false;
+    }
+  </script>
+</body>
+</html>
+```
+
+Este código cria uma página web simples e colorida com um fundo azul claro e um título em porpre. As piadas e os botões são exibidos na página, e quando o usuário clica no botão "Clique para revelar a punchline", as punchlines respectivas são reveladas usando JavaScript.

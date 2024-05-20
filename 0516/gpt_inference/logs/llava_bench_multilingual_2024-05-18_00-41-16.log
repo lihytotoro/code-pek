@@ -1,0 +1,19 @@
+2024-05-18 00:41:16,977 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 00:41:21,984 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 00:41:21,985 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 00:41:21,985 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 00:41:21,988 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 00:41:21,993 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 00:41:27,000 - INFO - HTTPSConnectionPool(host='llm-center.ali.modelbest.cn', port=443): Max retries exceeded with url: /llm/client/conv/submitMsgFreeChoiceProcess/sync (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa1391f0700>: Failed to resolve 'llm-center.ali.modelbest.cn' ([Errno -3] Temporary failure in name resolution)"))
+2024-05-18 00:41:27,003 - INFO - HTTPSConnectionPool(host='llm-center.ali.modelbest.cn', port=443): Max retries exceeded with url: /llm/client/conv/submitMsgFreeChoiceProcess/sync (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa1391f0250>: Failed to resolve 'llm-center.ali.modelbest.cn' ([Errno -3] Temporary failure in name resolution)"))
+2024-05-18 00:41:27,012 - INFO - HTTPSConnectionPool(host='llm-center.ali.modelbest.cn', port=443): Max retries exceeded with url: /llm/client/conv/submitMsgFreeChoiceProcess/sync (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa1391ec670>: Failed to resolve 'llm-center.ali.modelbest.cn' ([Errno -3] Temporary failure in name resolution)"))
+2024-05-18 00:41:30,164 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 00:41:39,477 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)

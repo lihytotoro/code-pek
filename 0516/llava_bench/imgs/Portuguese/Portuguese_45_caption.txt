@@ -1,0 +1,1 @@
+A page of a notebook showing a sketch of a website layout. The heading reads "My Joke Website". It is followed by several rows, each row reading: "[Really funny joke 1]", "[Push to reveal punchline]", "[Same, but joke 2]", "[Push to reveal punchline]", "Copyright OpenAI 2023".

@@ -1,0 +1,7 @@
+Ce meme est drôle parce qu'il met en avant la différence de complexité et de jargon entre deux approches d'apprentissage automatique : l'apprentissage statistique et les réseaux de neurones.
+
+Dans la moitié supérieure, le meme présente une personne discutant de l'apprentissage statistique. Elle utilise des termes techniques tels que "dimension de VC", "noyau", "risque structurel" et "marge souple". Le texte et l'expression inquiète de la personne suggèrent que cette approche nécessite une compréhension approfondie de divers concepts, ce qui la rend apparemment compliquée et difficile.
+
+En revanche, la moitié inférieure montre une personne avec une expression heureuse, parlant des réseaux de neurones. Le conseil donné ici est simplement de "pile plus de couches", faisant référence à l'ajout de couches à un modèle de réseau de neurones pour améliorer ses performances. Cette partie du meme se moque de la simplicité perçue des réseaux de neurones par rapport à l'apprentissage statistique.
+
+L'humour vient de l'exagération de la simplicité de l'approche des réseaux de neurones par rapport au jargon complexe de l'apprentissage statistique, ce qui implique que les praticiens des réseaux de neurones ne pourraient pas avoir besoin du même niveau d'expertise que ceux travaillant avec des méthodes d'apprentissage statistique. Le texte "mais sans ironie" suggère que c'est une observation authentique du domaine, ce qui ajoute à l'humour.

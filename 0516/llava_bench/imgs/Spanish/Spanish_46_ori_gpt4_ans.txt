@@ -1,0 +1,51 @@
+Aquí está el código HTML/JS para crear un sitio web coloreado utilizando el esbozo de cuaderno con dos chistes reales:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Sitio Web de Chistes</title>
+  <style>
+    body {
+      background-color: lightblue;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: purple;
+    }
+    button {
+      background-color: orange;
+      color: white;
+      font-size: 1.2em;
+      margin-top: 10px;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mi Sitio Web de Chistes</h1>
+  <p id="joke1">¿Por qué nunca contamos secretos en una granja?</p>
+  <button onclick="showPunchline('punchline1')">Pulsa para revelar la respuesta</button>
+  <p id="punchline1" hidden>¡Porque los papas tienen ojos y el maíz tiene orejas!</p>
+
+  <p id="joke2">¿Por qué los científicos no confían en los átomos?</p>
+  <button onclick="showPunchline('punchline2')">Pulsa para revelar la respuesta</button>
+  <p id="punchline2" hidden>¡Porque hacen todo lo que quieren!</p>
+  
+  <p>Copyright OpenAI 2023</p>
+
+  <script>
+    function showPunchline(punchlineId) {
+      document.getElementById(punchlineId).hidden = false;
+    }
+  </script>
+</body>
+</html>
+```
+
+Este código crea una página web simple y coloreada con un fondo azul claro y un título morado. Los chistes y los botones se muestran en la página, y cuando el usuario hace clic en el botón "Pulsa para revelar la respuesta", se revelarán respectivamente las respuestas utilizando JavaScript.

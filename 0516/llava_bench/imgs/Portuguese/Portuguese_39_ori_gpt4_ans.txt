@@ -1,0 +1,5 @@
+Volet 1: Este painel apresenta um smartphone semelhante a um iPhone, com um cabo VGA branco conectado ao seu porto de carga. O conector VGA é azul. A tela do telefone está protegida por uma tela de vidro e está encapsulada em uma capa de proteção.
+
+Volet 2: Este painel mostra uma embalagem de produto contendo um conector VGA semelhante ao do primeiro painel. A marca é ELECOM, e a série específica é a P-APLTDCN. Há uma etiqueta verde no fundo da embalagem que lê: "Para cabo Lightning".
+
+Volet 3: O último painel é uma visão em cima do conector, que aparece semelhante às das paineis anteriores. Neste painel, o conector real está visível, revelando que, na verdade, é um conector Lightning.

@@ -1,0 +1,7 @@
+Este meme es divertido porque destaca la diferencia en complejidad y jerga entre dos enfoques de aprendizaje automático: el aprendizaje estadístico y las redes neuronales.
+
+En la parte superior, el meme muestra a una persona que habla sobre el aprendizaje estadístico. Utilizan términos técnicos, como "dimension de VC", "kernel", "riesgo estructural" y "margen blando". El texto y la expresión preocupada de la persona sugieren que este enfoque requiere un profundo entendimiento de varios conceptos, lo que lo hace parecer complicado y desafiante.
+
+En contraste, la parte inferior muestra a una persona con una expresión feliz, hablando sobre redes neuronales. El consejo dado aquí es simplemente "añade más capas", refiriéndose a agregar capas a un modelo de red neuronal para mejorar su rendimiento. Esta parte del meme se burla de la percepción de simplicidad de las redes neuronales en comparación con el jargon complejo del aprendizaje estadístico.
+
+El humor proviene de la simplicidad exagerada del enfoque de las redes neuronales en comparación con el jargon complejo del aprendizaje estadístico, lo que implica que los practicantes de redes neuronales no necesitan el mismo nivel de experticia que aquellos que trabajan con métodos de aprendizaje estadístico. El texto "pero de manera irónica" sugiere que esta es una observación genuina hecha en el campo, lo que añade al humor.

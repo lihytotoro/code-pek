@@ -1,0 +1,736 @@
+2024-05-18 01:10:30,272 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,275 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,276 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,277 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,280 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,281 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,281 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,283 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,285 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:30,799 - INFO - status code: 102503 
+error: {"requestId":"5feb3cae61c9075f117f2b7429e1b46a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:30,928 - INFO - status code: 102503 
+error: {"requestId":"8cef6408ded1f5bf576a0e6881aada13","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:33,453 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:33,463 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:33,485 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:34,200 - INFO - status code: 102503 
+error: {"requestId":"482c4739fa4066f5b0d42d9e40cb1acb","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:34,239 - INFO - status code: 102503 
+error: {"requestId":"8fa53698f1b6bb068f06ec3cdefaa2c1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:35,740 - INFO - status code: 102503 
+error: {"requestId":"91b2dcdbaaf8c6e09e95cae635264aa3","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:35,779 - INFO - status code: 102503 
+error: {"requestId":"cc73ff929035341106c3ab0a0c92e484","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:35,783 - INFO - status code: 102503 
+error: {"requestId":"1f085c8176ad46d19a9d8a856d68962b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:35,978 - INFO - status code: 102503 
+error: {"requestId":"906d13c06d2eb35833ef54277e0c4a9e","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:36,033 - INFO - status code: 102503 
+error: {"requestId":"5292d41641e87b7a6418b196eef630a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:36,037 - INFO - status code: 102503 
+error: {"requestId":"77b77686fc09bcf39edc29f1a4ca83b7","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:36,073 - INFO - status code: 102503 
+error: {"requestId":"be43d45c208f42bec55fb776fd3daf1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:36,475 - INFO - status code: 102503 
+error: {"requestId":"8baffe9ebe6e5d2904baea70a4d45896","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:36,480 - INFO - status code: 102503 
+error: {"requestId":"e9d362f6a0fb93cdbfed9b447f372cc0","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:37,122 - INFO - status code: 102503 
+error: {"requestId":"31aeef395004ce91ae343c40bec87b83","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:37,289 - INFO - status code: 102503 
+error: {"requestId":"9a1358add6981b2f7cca449def4b20a6","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:37,668 - INFO - status code: 102503 
+error: {"requestId":"4319c75d7c0160e628739057695001c3","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:38,124 - INFO - status code: 102503 
+error: {"requestId":"87d025616f18298abcb621489dd67eab","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:38,204 - INFO - status code: 102503 
+error: {"requestId":"8d3449d75c7784cd7430041ba0650727","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:39,117 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:39,124 - INFO - status code: 102503 
+error: {"requestId":"1e6576ebd33ebb4940fa51963eacfefe","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:39,352 - INFO - status code: 102503 
+error: {"requestId":"391181fba6bdf7d5d3f27e506adb552c","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:39,353 - INFO - status code: 102503 
+error: {"requestId":"61487c4a11ee2d2862e3eb83497f6381","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:39,441 - INFO - status code: 102503 
+error: {"requestId":"ffa921af5be42bb0d776af70fb2af2ec","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:39,906 - INFO - status code: 102503 
+error: {"requestId":"af1a88860dd5a3b41c0bc68029c05b8e","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:40,089 - INFO - status code: 102503 
+error: {"requestId":"9e52310c89215f8001fb0c23695c224a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:40,092 - INFO - status code: 102503 
+error: {"requestId":"e4d167ee164b216a04a75c7c9a9256c9","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:40,110 - INFO - status code: 102503 
+error: {"requestId":"6d60d7c01449d5e3b7c93b09486b7cb2","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:40,542 - INFO - status code: 102503 
+error: {"requestId":"aa5ccc17d348039f9835b9bd71d481cf","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:40,823 - INFO - status code: 102503 
+error: {"requestId":"65d42e74caaa15ae2ded5e1caa1fbe96","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:41,278 - INFO - status code: 102503 
+error: {"requestId":"1008989408d510dd240f5907933f5229","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:41,312 - INFO - status code: 102503 
+error: {"requestId":"e586588f5e3d692c5c6f87d8c0466efb","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:41,794 - INFO - status code: 102503 
+error: {"requestId":"2782e9da13fbfc6ed4f30c59decb00b5","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:42,060 - INFO - status code: 102503 
+error: {"requestId":"3d3a8a97ad031f8ab2705c95b94790d1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:42,447 - INFO - status code: 102503 
+error: {"requestId":"cfe3f09364a89a78d3d4a0444844fa98","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:42,606 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:43,205 - INFO - status code: 102503 
+error: {"requestId":"61f4c0736ed3536115b16e2f4d95a82d","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:44,067 - INFO - status code: 102503 
+error: {"requestId":"1e7e2f2e62820cb48d6c87a587c51549","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:44,223 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:44,262 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:44,549 - INFO - status code: 102503 
+error: {"requestId":"f463582ef39cf5cfba77bf825a58ef2a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:44,650 - INFO - status code: 102503 
+error: {"requestId":"d6b99938dcf3c2acc42e962038e2a141","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:44,974 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:10:45,733 - INFO - status code: 102503 
+error: {"requestId":"c1289c763945e324f3b9d9405cd404a3","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:46,344 - INFO - status code: 102503 
+error: {"requestId":"30f6d9329f5c098f7b1189aff54183a6","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:47,314 - INFO - status code: 102503 
+error: {"requestId":"5936aea2382c7c7a19bffd38e0e2958d","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:48,040 - INFO - status code: 102503 
+error: {"requestId":"f665d157d7a8ea424b1e034c7c1c8982","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:48,192 - INFO - status code: 102503 
+error: {"requestId":"238bb4807daf1a4fa1eafc71d731e6a1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:48,704 - INFO - status code: 102503 
+error: {"requestId":"f3191cff349b10ad130f9d312ec63aff","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:48,709 - INFO - status code: 102503 
+error: {"requestId":"432d15307b0b661450e9853ec114d9ee","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:49,604 - INFO - status code: 102503 
+error: {"requestId":"90b1e42a4b98211bc77c0d84f2665597","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:50,268 - INFO - status code: 102503 
+error: {"requestId":"d572ecec42e3d3e1d6b0e96d815dd161","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:50,690 - INFO - status code: 102503 
+error: {"requestId":"c0ab729b5d71c91156cc7586a9ec5b49","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:51,563 - INFO - status code: 102503 
+error: {"requestId":"c6dbcb68de472b7d05d6abf5ceb5dd04","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:51,873 - INFO - status code: 102503 
+error: {"requestId":"9404b430658fec7502dee5583a770ad9","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:52,858 - INFO - status code: 102503 
+error: {"requestId":"d490cb23ec9704bf1c13bf14444ed420","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:52,973 - INFO - status code: 102503 
+error: {"requestId":"d736e52e738bc8871054440f14026e9","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:53,416 - INFO - status code: 102503 
+error: {"requestId":"d79dbcaf8797eef251108a48d5dfcd8b","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:53,681 - INFO - status code: 102503 
+error: {"requestId":"f0d572cc3e64c3ba181338d06ab8f009","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:54,026 - INFO - status code: 102503 
+error: {"requestId":"6da3a1663fb7a7addbc0c2d327951912","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:54,425 - INFO - status code: 102503 
+error: {"requestId":"526320c454814c03e96d8a594b167a30","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:54,433 - INFO - status code: 102503 
+error: {"requestId":"4be78e774c0b7669b89b0e858517c8b6","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:55,458 - INFO - status code: 102503 
+error: {"requestId":"5d499198728f663c0e0ebd8cbefb2da5","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:56,249 - INFO - status code: 102503 
+error: {"requestId":"fb1bed75e6c9be1aa2b5fb1ee99f386b","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:56,942 - INFO - status code: 102503 
+error: {"requestId":"9f8aaa74e413eb901c9b3a04c74c5f9b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:57,085 - INFO - status code: 102503 
+error: {"requestId":"bf3860286e572ae88c7c72718a35dd7f","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:57,215 - INFO - status code: 102503 
+error: {"requestId":"a8d042347b4e02a48a42dcd4e3022eda","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:58,136 - INFO - status code: 102503 
+error: {"requestId":"12d801c0ca1a478c82629a4e707374d5","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:58,604 - INFO - status code: 102503 
+error: {"requestId":"9a7243cb1c132e78bda491857e7c379c","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:10:59,383 - INFO - status code: 102503 
+error: {"requestId":"5aa27455561f9adb16eddab182f32d26","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:59,952 - INFO - status code: 102503 
+error: {"requestId":"51c3cc2dab150eb2973e07c5da00bdb4","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:10:59,997 - INFO - status code: 102503 
+error: {"requestId":"29070be099d7ff41cea27f3fa20d68ed","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:00,127 - INFO - status code: 102503 
+error: {"requestId":"fe6afb6b0aa5ed361e0589621be40c06","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:00,902 - INFO - status code: 102503 
+error: {"requestId":"39f859e2831e86a7d70f6e4fd6ee0aea","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:01,093 - INFO - status code: 102503 
+error: {"requestId":"fa378c574e7d0500d0193b562e5832ed","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:01,283 - INFO - status code: 102503 
+error: {"requestId":"5ec8f68b0ec5e40275cf8fbd8512b3d6","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:02,507 - INFO - status code: 102503 
+error: {"requestId":"d6ae3489076688ba5461e8f5a04f82d7","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:03,595 - INFO - status code: 102503 
+error: {"requestId":"59d19e52621ff247388442718212efa3","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:03,823 - INFO - status code: 102503 
+error: {"requestId":"c26d8cb9a22e413ab4d5fc00f706fe79","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:03,833 - INFO - status code: 102503 
+error: {"requestId":"ef5328d9b78872e38993061df58657e6","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:03,853 - INFO - status code: 102503 
+error: {"requestId":"ce701ba080b5736cf83b6e39ac8ddc39","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:04,434 - INFO - status code: 102503 
+error: {"requestId":"a35a6507e245ca119a40c4f6be0942ee","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:05,011 - INFO - status code: 102503 
+error: {"requestId":"4c5bde815a5d5ef8dce9cb58ba405a37","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:06,470 - INFO - status code: 102503 
+error: {"requestId":"5e0e02ff01f70d5456dcee666e50649f","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:07,614 - INFO - status code: 102503 
+error: {"requestId":"235f9d2906fbca0312b945d9a16c2193","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:07,617 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:11:07,818 - INFO - status code: 102503 
+error: {"requestId":"a99409e4fa60ab01bd4467c43a440e49","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:07,883 - INFO - status code: 102503 
+error: {"requestId":"ee6c373521d8bb580227f9d6c05d1a3","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:08,927 - INFO - status code: 102503 
+error: {"requestId":"b2011458df52056c5d8112d37a9f178c","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:10,519 - INFO - status code: 102503 
+error: {"requestId":"a01822dedcffa9229afb4d30c5fd4517","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:10,689 - INFO - status code: 102503 
+error: {"requestId":"a4784cfe8c6b6869341c3f8c33fcbd2f","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:10,994 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:11:11,466 - INFO - status code: 102503 
+error: {"requestId":"1dcd695e83f677b856e350e943fb5398","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:11,562 - INFO - status code: 102503 
+error: {"requestId":"22bb59e7fb9f6c51444985212a35e526","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:11,631 - INFO - status code: 102503 
+error: {"requestId":"d1eb10990c40669181bb15d19c924f4d","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:11,908 - INFO - status code: 102503 
+error: {"requestId":"bf10cb9a419ae106770fee6fb5cfcb36","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:12,739 - INFO - status code: 102503 
+error: {"requestId":"af1eb2c6c83095ff2e41beef18d5b89a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:14,175 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:11:14,225 - INFO - status code: 102503 
+error: {"requestId":"69b9746b85485a7c86696591a3f81dd8","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:14,525 - INFO - status code: 102503 
+error: {"requestId":"1944475c726b11a6152348dbfa3f843a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:14,666 - INFO - status code: 102503 
+error: {"requestId":"7dbd9aecb9b26709e5d589271fef6649","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:15,429 - INFO - status code: 102503 
+error: {"requestId":"441eeb3caac1ab606064a1ae89e2b497","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:15,520 - INFO - status code: 102503 
+error: {"requestId":"a8607afe3580844cf87a3e27598d14b5","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:16,178 - INFO - status code: 102503 
+error: {"requestId":"d456a5b0a23e5f9a6cd0179ae21d71f2","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:17,694 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:11:17,840 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:11:18,261 - INFO - status code: 102503 
+error: {"requestId":"b39a9dd36aacf38ffcca8bf1a615b2a1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:18,276 - INFO - status code: 102503 
+error: {"requestId":"b9182564ae29b460888131aa8f22eee9","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:19,108 - INFO - status code: 102503 
+error: {"requestId":"aaafb7c7cc5c14568fad3f1748f54743","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:20,064 - INFO - status code: 102503 
+error: {"requestId":"617e8e71ef27e838064fde1afa0df938","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:20,104 - INFO - status code: 102503 
+error: {"requestId":"7eca95143fc1145c400cfb82c06291d8","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:20,129 - INFO - status code: 102503 
+error: {"requestId":"73c10812a6388ac5461395c6223c192c","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:20,335 - INFO - status code: 102503 
+error: {"requestId":"471ccbdfb08e286f9a6001d8a176e3ed","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:21,114 - INFO - status code: 102503 
+error: {"requestId":"d29fc3da0fd50dcd0d38bb56ffed7344","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:21,468 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:11:21,661 - INFO - status code: 102503 
+error: {"requestId":"3d8ecfd18540d4373748e9cd23a16d1c","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:22,180 - INFO - status code: 102503 
+error: {"requestId":"83c768eefc550c7ccd349b9a05560ad1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:23,426 - INFO - status code: 102503 
+error: {"requestId":"c5bba4c6b364da4441e2f16599df7e13","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:24,043 - INFO - status code: 102503 
+error: {"requestId":"c27509a6e865f3b94c46eba31c186ffb","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:24,138 - INFO - status code: 102503 
+error: {"requestId":"66e93abb040832e5797f5c78608b1c9c","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:24,680 - INFO - status code: 102503 
+error: {"requestId":"917d10eafdd5e50ba3be98e43fd695c8","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:24,846 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:11:25,201 - INFO - status code: 102503 
+error: {"requestId":"ea7facb9e44660666dce900d8de369a8","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:26,242 - INFO - status code: 102503 
+error: {"requestId":"7718689bab4ab53bbfc89c3dfa817255","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:27,176 - INFO - status code: 102503 
+error: {"requestId":"f9cba97f46b4a4b5b29ee3f7526dee39","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:27,385 - INFO - status code: 102503 
+error: {"requestId":"686872029adaf5657f38e68ea802af7a","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:27,881 - INFO - status code: 102503 
+error: {"requestId":"8601395e3b6c3090e798fd68f0981a13","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:28,061 - INFO - status code: 102503 
+error: {"requestId":"4aa3baa0d849116d06d626d7e492e666","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:28,076 - INFO - status code: 102503 
+error: {"requestId":"274ea6c7e44e53615610d7b39d6788a8","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:28,726 - INFO - status code: 102503 
+error: {"requestId":"22f1dcf310ae3f82b166ae6b1f4b4f2e","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:29,892 - INFO - status code: 102503 
+error: {"requestId":"8931ff8f82170c324723ac835560cd73","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:30,169 - INFO - status code: 102503 
+error: {"requestId":"7ebfc206d54dcd3ddbce6f41eb96aaad","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:31,077 - INFO - status code: 102503 
+error: {"requestId":"da2e50dc38c60b343a2b6c1c30564c13","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:31,422 - INFO - status code: 102503 
+error: {"requestId":"e413be844fed74682b1eed76eccc6e00","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:31,734 - INFO - status code: 102503 
+error: {"requestId":"8f0b2e0d9f1997195e62be4919d6ec36","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:32,718 - INFO - status code: 102503 
+error: {"requestId":"bf137d85eb41753dd23923436721515","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:33,786 - INFO - status code: 102503 
+error: {"requestId":"a7b6731dbb75dff2bf1f825251974177","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:33,790 - INFO - status code: 102503 
+error: {"requestId":"2f6aced2f16d20c2eaa514bea710e53b","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:33,894 - INFO - status code: 102503 
+error: {"requestId":"b4faf97b507b397ba9037fe754440d90","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:34,205 - INFO - status code: 102503 
+error: {"requestId":"e1bbca8b001668a4480ff66b4eda7054","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:35,212 - INFO - status code: 102503 
+error: {"requestId":"671b7c4a5db35c0276b1d08b36ce3b94","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:35,383 - INFO - status code: 102503 
+error: {"requestId":"469ecedca54653150c9da66c59f8a4cb","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:37,781 - INFO - status code: 102503 
+error: {"requestId":"970196a93a78675aec2222ec8267f562","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:37,875 - INFO - status code: 102503 
+error: {"requestId":"631fceadf1b1856d04f8c5f7d10d9b3c","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:38,909 - INFO - status code: 102503 
+error: {"requestId":"85cec6b8b3ab388722bc0320ab2833fa","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:39,048 - INFO - status code: 102503 
+error: {"requestId":"6f350bd7a76a550a826a80e03e0fd28e","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:39,283 - INFO - status code: 102503 
+error: {"requestId":"3cb80f9a47f306b08a060f57fbf601ce","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:39,553 - INFO - status code: 102503 
+error: {"requestId":"6fb34d1c0a5ed3046208d7d30fcb7d6a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:40,850 - INFO - status code: 102503 
+error: {"requestId":"1b569baada4ed1e3306853c84ae7553f","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:41,383 - INFO - status code: 102503 
+error: {"requestId":"18cd5e0795c6cb37a2801e00dd8bd7f0","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:41,493 - INFO - status code: 102503 
+error: {"requestId":"69411d5d4760446bf4d3d1bd5c70bba0","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:41,766 - INFO - status code: 102503 
+error: {"requestId":"1296dbfe56ffafdfa9cb8e15306cb891","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:42,927 - INFO - status code: 102503 
+error: {"requestId":"c6e901ae9c6e81bafc1e919bade965e6","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:43,027 - INFO - status code: 102503 
+error: {"requestId":"485b357f40d1874b423f1b3bfdce629b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:43,440 - INFO - status code: 102503 
+error: {"requestId":"a04fe3cb79c404a63477850e3e4371df","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:43,547 - INFO - status code: 102503 
+error: {"requestId":"c092cec3fcd91d6087755fc23b3a4caa","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:45,179 - INFO - status code: 102503 
+error: {"requestId":"e36a53b7ed43486a3a1bd20c6a8839c9","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:45,474 - INFO - status code: 102503 
+error: {"requestId":"f885c049f663e8b1fb0d18631c858ad","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:45,868 - INFO - status code: 102503 
+error: {"requestId":"1f325f6dde17c76caa6583755403dd54","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:46,462 - INFO - status code: 102503 
+error: {"requestId":"e4e5001e37d2db8287a8f627440f084","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:47,503 - INFO - status code: 102503 
+error: {"requestId":"7edbe54b2c158c34ba24b1ef74ad0e6c","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:47,670 - INFO - status code: 102503 
+error: {"requestId":"245f33c36ec6df4b1efab338c2999e3d","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:49,863 - INFO - status code: 102503 
+error: {"requestId":"881fbb69a44c971d13f6e92aa2d8e346","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:50,607 - INFO - status code: 102503 
+error: {"requestId":"72c4f89705be20ad6cd82527c495fcff","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:51,584 - INFO - status code: 102503 
+error: {"requestId":"1ed6193ad2ee7a0e8b9033a20a7d1478","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:11:52,437 - INFO - status code: 102503 
+error: {"requestId":"f8865cc1a800c7b1a753b1bdf725c27a","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:11:56,421 - INFO - status code: 102503 
+error: {"requestId":"1f155d982d9fd9eeab7d7901e5871fc1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:00,332 - INFO - status code: 102503 
+error: {"requestId":"903ed7ba1c24c863d7f0877acc8a477","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:03,645 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,648 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,650 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,650 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,651 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,653 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,653 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,653 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,656 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,661 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:03,673 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:06,828 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:06,829 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:07,602 - INFO - status code: 102503 
+error: {"requestId":"1f1b237105c4457fcf96b8b1542479ea","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:07,697 - INFO - status code: 102503 
+error: {"requestId":"d26c1af5ff5135023268e6ded4b60cd2","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,470 - INFO - status code: 102503 
+error: {"requestId":"b727076af6e61f27ddd662d785c5321","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,479 - INFO - status code: 102503 
+error: {"requestId":"8e6230803dd93d86267b81c2725c8e28","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,500 - INFO - status code: 102503 
+error: {"requestId":"4f2614bbc7db2d2548b5cca910881766","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,508 - INFO - status code: 102503 
+error: {"requestId":"c8df6ce5bf61af45eee79d301945fd59","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,531 - INFO - status code: 102503 
+error: {"requestId":"25404f1adf3bf31a8dbe8bbf33e381ed","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,535 - INFO - status code: 102503 
+error: {"requestId":"cd839ac65063700843a9ced2329465f9","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,541 - INFO - status code: 102503 
+error: {"requestId":"328d812c6ba400655bff69a4ab8845dd","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,616 - INFO - status code: 102503 
+error: {"requestId":"545b02e831402f7556d50c7434fd45a9","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:09,646 - INFO - status code: 102503 
+error: {"requestId":"7a06386d889f5209a245402230c7e712","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:11,063 - INFO - status code: 102503 
+error: {"requestId":"7d319e026e225cd57da610fee0da4b11","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:11,162 - INFO - status code: 102503 
+error: {"requestId":"340ca9d762e892bf100a868d737677d9","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:11,806 - INFO - status code: 102503 
+error: {"requestId":"90badd42a187b9cc62b143ab30149c0","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:11,809 - INFO - status code: 102503 
+error: {"requestId":"1bf54922e9e33ec00b8fbf62e54a76be","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:12,618 - INFO - status code: 102503 
+error: {"requestId":"f3a3c89e77b820b5dcd66f486ebf507c","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:12,623 - INFO - status code: 102503 
+error: {"requestId":"92b888a88ce9ac13d1ac8d731dc7db3a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:12,656 - INFO - status code: 102503 
+error: {"requestId":"a7e8bc518edc39744a62182a75a448e7","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:12,662 - INFO - status code: 102503 
+error: {"requestId":"63f767aeac320c9fddf961a297b73d18","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:12,865 - INFO - status code: 102503 
+error: {"requestId":"f6e284f84f4544ba66137e7253344a34","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:13,008 - INFO - status code: 102503 
+error: {"requestId":"b30d4e3164f5fe7bd12348822b37e45b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:13,225 - INFO - status code: 102503 
+error: {"requestId":"c0383babea4a601cdcae104620c1c486","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:13,628 - INFO - status code: 102503 
+error: {"requestId":"32fc053116c9b710c9c365f6d065806b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:13,836 - INFO - status code: 102503 
+error: {"requestId":"80b8e636d6e95cde211932d141185e02","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:15,746 - INFO - status code: 102503 
+error: {"requestId":"210776547d39477f538effcf7c3f5ceb","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:15,813 - INFO - status code: 102503 
+error: {"requestId":"5f3eb737892f7cd42420b06b524d3288","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:15,822 - INFO - status code: 102503 
+error: {"requestId":"9d275b55952e072a2b70ef3227f196dd","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:16,138 - INFO - status code: 102503 
+error: {"requestId":"8817fd4a47f9b57c47524da7eb82ee40","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:16,174 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:16,465 - INFO - status code: 102503 
+error: {"requestId":"d3631c724febbdca18b07b975aebca22","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:17,006 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:17,354 - INFO - status code: 102503 
+error: {"requestId":"e483f329c7ba00b1a9f64e4c11100bb8","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:17,397 - INFO - status code: 102503 
+error: {"requestId":"f56e9e731d59e15e7973a78e789c774b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:18,418 - INFO - status code: 102503 
+error: {"requestId":"ae0dd7bb1f9652571a347e7d5923a8ac","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:18,627 - INFO - status code: 102503 
+error: {"requestId":"5b013cb5aa77a2fc59346c64e8956482","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:19,359 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:19,711 - INFO - status code: 102503 
+error: {"requestId":"956f77759d4a83c0a123dff041fb04e6","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:19,749 - INFO - status code: 102503 
+error: {"requestId":"19fc7050c17e1341ccfc2a0425b239f9","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:20,342 - INFO - status code: 102503 
+error: {"requestId":"b0f03c42ea581d03bd0988b15862eedb","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:20,973 - INFO - status code: 102503 
+error: {"requestId":"8e80841887c5ee4ef7b20b5ab5546a13","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:21,832 - INFO - status code: 102503 
+error: {"requestId":"b2f548b594184b13cac920669b14008e","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:22,409 - INFO - status code: 102503 
+error: {"requestId":"ffc2d25559947db57f28097f14a37616","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:22,789 - INFO - status code: 102503 
+error: {"requestId":"6deb506f14db2f8512af8f66187933e5","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:23,106 - INFO - status code: 102503 
+error: {"requestId":"5bba80ec75e8d9e38037f00d49939bf2","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:23,267 - INFO - status code: 102503 
+error: {"requestId":"f6e8cba250a01af7d835ddd5abb0835e","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:23,764 - INFO - status code: 102503 
+error: {"requestId":"3ee771fc71093f15f411eba69d8aa48d","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:24,011 - INFO - status code: 102503 
+error: {"requestId":"338feeb5b1e027cc190eee501c34e427","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:24,325 - INFO - status code: 102503 
+error: {"requestId":"d8cd877b8a30b3216a531b301a5c74b0","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:24,957 - INFO - status code: 102503 
+error: {"requestId":"67148ba265889a379456ddbda8d92e1c","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:25,861 - INFO - status code: 102503 
+error: {"requestId":"346250c5f6f86c52187ea6bd1204f4b8","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:26,713 - INFO - status code: 102503 
+error: {"requestId":"8aef5c372dd48a02f9b2ed7791cd68b2","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:26,770 - INFO - status code: 102503 
+error: {"requestId":"c0fa38ff9dfdb52383dc7c23a6aa8cc1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:27,245 - INFO - status code: 102503 
+error: {"requestId":"e17fda6b714b6c8138f5847cb144e311","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:27,552 - INFO - status code: 102503 
+error: {"requestId":"d2b5c9c28b90dda6e697a100401e4bbb","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:27,740 - INFO - status code: 102503 
+error: {"requestId":"3df13cbf17ecc04decf2ec9dd003715","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:28,170 - INFO - status code: 102503 
+error: {"requestId":"7426022a474dc5f278c5ae7d7e268827","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:29,788 - INFO - status code: 102503 
+error: {"requestId":"1f3e16250065dbea9d1c8d7502a195df","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:30,220 - INFO - status code: 102503 
+error: {"requestId":"94acb419c48994039a7bef165435f195","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:30,564 - INFO - status code: 102503 
+error: {"requestId":"73d00d15b0c58f4edecd73a5ae16cbe","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:31,788 - INFO - status code: 102503 
+error: {"requestId":"c78c0e0bd20ebba49b0c6dafa30f2d31","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:32,530 - INFO - status code: 102503 
+error: {"requestId":"489e3b2a999a871ce644f15cf9c86291","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:32,544 - INFO - status code: 102503 
+error: {"requestId":"147a7a84d03c96f46619b268c4569106","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:33,913 - INFO - status code: 102503 
+error: {"requestId":"98593ff6d23868e0a4d46c737ac99633","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:34,178 - INFO - status code: 102503 
+error: {"requestId":"37e0d0559075f43b2dd9b3a7a3c4ecb5","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:34,340 - INFO - status code: 102503 
+error: {"requestId":"d9f96255a256a29b0188ce099ecca10d","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:34,376 - INFO - status code: 102503 
+error: {"requestId":"940acec03ae6fb4a388edb1ec5747b3a","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:34,460 - INFO - status code: 102503 
+error: {"requestId":"5f6473733cd29e259664a8fe77e3b136","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:35,365 - INFO - status code: 102503 
+error: {"requestId":"c0933e9b81ff1a56b10596436a8f0205","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:35,981 - INFO - status code: 102503 
+error: {"requestId":"86e2fee82f83bf3c16a41da5779a7846","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:36,410 - INFO - status code: 102503 
+error: {"requestId":"96d08019836b090c17c4b6289540c3a3","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:36,752 - INFO - status code: 102503 
+error: {"requestId":"63c0d96eb25fdd700279b238fc2655a8","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:37,933 - INFO - status code: 102503 
+error: {"requestId":"6c901e586220535774a045f13b143bd","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:38,770 - INFO - status code: 102503 
+error: {"requestId":"dc57369e195034c7c0ebaf8cb56f60c","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:39,538 - INFO - status code: 102503 
+error: {"requestId":"73043a599049d29a49655c6766ea69ee","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:40,182 - INFO - status code: 102503 
+error: {"requestId":"33c51339a420e4349259c7b87b671f4","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:40,195 - INFO - status code: 102503 
+error: {"requestId":"42e7c42f4b8d62a46974e042681e10cd","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:40,328 - INFO - status code: 102503 
+error: {"requestId":"f79776e2f9b0d5dfd2fc61cb00343bd9","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:40,333 - INFO - status code: 102503 
+error: {"requestId":"3a9c3d4c241df4b417533d203de066a2","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:41,044 - INFO - status code: 102503 
+error: {"requestId":"82f889e34ff0d8aa9b562394f32454a4","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:41,165 - INFO - status code: 102503 
+error: {"requestId":"38bb1cd93702f998e5ecfb3733c9efa","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:42,313 - INFO - status code: 102503 
+error: {"requestId":"fd091269c89dfb55d5c69585de1f0d7f","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:42,447 - INFO - status code: 102503 
+error: {"requestId":"9c4b604706020b9e64d0d64bc4255434","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:42,694 - INFO - status code: 102503 
+error: {"requestId":"38c8409668edcf59dad1ea39c76f0693","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:42,714 - INFO - status code: 102503 
+error: {"requestId":"24a5c31d8dbf90e01717aac203664f4d","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:43,474 - INFO - status code: 102503 
+error: {"requestId":"1e8685954ea8c5be3f0786d09fdf4d3f","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:44,052 - INFO - status code: 102503 
+error: {"requestId":"2078c1d7d40fdd4aac97b2a0e4807d5a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:44,152 - INFO - status code: 102503 
+error: {"requestId":"b3db50d5f0e21f666e43ad29cd51d71f","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:44,301 - INFO - status code: 102503 
+error: {"requestId":"dfdea53d16feba1241c7fe27febbd2e0","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:45,474 - INFO - status code: 102503 
+error: {"requestId":"9730d5f77137839a98b1cea50c18e81f","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:45,526 - INFO - status code: 102503 
+error: {"requestId":"ade90757a874b8b42e56eed1b083058f","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:45,873 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:46,611 - INFO - status code: 102503 
+error: {"requestId":"8a1796c23f70d9c44d461d95f791604","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:46,741 - INFO - status code: 102503 
+error: {"requestId":"b2a5743744a7243ffef72ef4134dfc69","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:46,819 - INFO - status code: 102503 
+error: {"requestId":"eb59f73ece2b88f187340d89f6289d1b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:47,167 - INFO - status code: 102503 
+error: {"requestId":"8ad974e5a8e4141c79524403b33c5307","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:47,554 - INFO - status code: 102503 
+error: {"requestId":"e0adea1c09a047cca7908080ba4d3b2d","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:48,081 - INFO - status code: 102503 
+error: {"requestId":"5619c0f604b5f638d94735dc1c8ffbed","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:48,875 - INFO - status code: 102503 
+error: {"requestId":"aa2b1b4a177be569735db668d6900bc0","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:49,226 - INFO - status code: 102503 
+error: {"requestId":"9920441126996a03c5e232dcd94e71af","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:49,595 - INFO - status code: 102503 
+error: {"requestId":"eed9ded55b34b0ad99ea8c67f5fc6dd4","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:49,696 - INFO - status code: 102503 
+error: {"requestId":"4c3d6261bf120ed2476f46b84792b19f","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:50,562 - INFO - status code: 102503 
+error: {"requestId":"2e583e9c74b0ef28ab0babd3a038d378","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:50,747 - INFO - status code: 102503 
+error: {"requestId":"6b5ea079dedba161d4040e3bb0270d01","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:51,561 - INFO - status code: 102503 
+error: {"requestId":"95cb2770157bb8e1cdedc8abd0e619a0","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:52,194 - INFO - status code: 102503 
+error: {"requestId":"737159ef350c3bdb936fd0e2d09194e0","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:52,390 - INFO - status code: 102503 
+error: {"requestId":"26854bf39b1d4d7749dd6b292e5a0ff1","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:52,963 - INFO - status code: 102503 
+error: {"requestId":"192d1d375e73202ccf2fd933b16097a","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:53,016 - INFO - status code: 102503 
+error: {"requestId":"28e85f8d5c2074d7f229d1e8bf22733e","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:53,642 - INFO - status code: 102503 
+error: {"requestId":"1ca2e21221c5a56240dbfd119e2ca58d","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:53,965 - INFO - status code: 102503 
+error: {"requestId":"679a5adaf3034eff7fd08ad507758fe5","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:54,016 - INFO - status code: 102503 
+error: {"requestId":"92127f6105d4307cf6a500eb1b55c20a","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:54,279 - INFO - status code: 102503 
+error: {"requestId":"1faff3333fdedb5795d53b00c879bde5","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:54,418 - INFO - status code: 102503 
+error: {"requestId":"9f05fd48eb60afae81e13138af5ac8a7","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:54,460 - INFO - status code: 102503 
+error: {"requestId":"6a17c7d695d817958cb9796a3851d656","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:54,764 - INFO - status code: 102503 
+error: {"requestId":"f6ea52112040b9293d062d85e78b05fa","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:55,780 - INFO - status code: 102503 
+error: {"requestId":"3fb05e6b48716bf14acb561304c85c3e","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:55,888 - INFO - status code: 102503 
+error: {"requestId":"e494badd90630a8a9cfcf1988d552aaf","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:56,099 - INFO - status code: 102503 
+error: {"requestId":"6803f3f49072b987779b5b49a369a438","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:56,500 - INFO - status code: 102503 
+error: {"requestId":"c7b19c4016d6f437f61303ce42fc5267","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:57,193 - INFO - status code: 102503 
+error: {"requestId":"e74fb28aa0b9c992bdd4cabb175a75d1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:57,655 - INFO - status code: 102503 
+error: {"requestId":"e0c0e3cc890c1e8ca1fe6f15558519a8","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:57,944 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:58,152 - INFO - status code: 102503 
+error: {"requestId":"c4f6517052b2c14b9750422df7c2872f","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:58,201 - INFO - status code: 102503 
+error: {"requestId":"6f26e5c97b714b205b5108b3776c02e6","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:58,531 - INFO - status code: 102503 
+error: {"requestId":"43050d3807e679e1fdfb5d85af4365c1","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:58,680 - INFO - status code: 102503 
+error: {"requestId":"d41ee044ecd981ba5d0e843963a0a2d3","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:12:59,674 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:12:59,871 - INFO - status code: 102503 
+error: {"requestId":"87ca1c189b9e86c35e1fef1c1036c71e","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:12:59,888 - INFO - status code: 102503 
+error: {"requestId":"ace0c33f896a49cbd38036d7777ab001","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:00,028 - INFO - status code: 102503 
+error: {"requestId":"fe32a3596c56d3adc0e207677571f618","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:00,940 - INFO - status code: 102503 
+error: {"requestId":"ec9426124dff03e3f42971aca46841cd","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:01,184 - INFO - status code: 102503 
+error: {"requestId":"bfecc410f2e2b36e1194ed13ed052910","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:01,372 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:13:01,550 - INFO - status code: 102503 
+error: {"requestId":"a87b5546c5ffd2a2b5c90d5851234a2f","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:02,236 - INFO - status code: 102503 
+error: {"requestId":"d10ed0feae0a0a63f032219aacfef573","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:02,622 - INFO - status code: 102503 
+error: {"requestId":"6d00449d6a118759e9adef103962c1b1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:03,808 - INFO - status code: 102503 
+error: {"requestId":"5acd067bde91b9dda5f9e5282420281f","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:03,913 - INFO - status code: 102503 
+error: {"requestId":"5da5bd8922019025b4c1043745700158","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:04,538 - INFO - status code: 102503 
+error: {"requestId":"c0b34373cc4894283b9abd8e746c9e6e","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:05,008 - INFO - status code: 102503 
+error: {"requestId":"9fb692160958d5e80046a697f46c50aa","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:05,696 - INFO - status code: 102503 
+error: {"requestId":"61c5c7c87b02eb2ca15aeadcec21131b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:06,637 - INFO - status code: 102503 
+error: {"requestId":"49e5d928f7a7e2e0e4200ef43ed81ee9","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:06,791 - INFO - status code: 102503 
+error: {"requestId":"22804c1d5ebda3063ce7a72466e6135f","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:06,852 - INFO - status code: 102503 
+error: {"requestId":"dd83f81e57b64ef74a4286cca340bc15","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:07,773 - INFO - status code: 102503 
+error: {"requestId":"f84e1882a42163a3ddddc36ce34ed23d","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:08,339 - INFO - status code: 102503 
+error: {"requestId":"c8f50baa0dc7b9955cf8d7358b0d3fbc","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:08,622 - INFO - status code: 102503 
+error: {"requestId":"dbd2e7822b86d0918b48c4fb1a154da4","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:09,042 - INFO - status code: 102503 
+error: {"requestId":"e247f6f3fb97bbd9d85bddd5f459d752","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:09,937 - INFO - status code: 102503 
+error: {"requestId":"2b0dcfa70a5a74f36003676284cff75a","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:10,949 - INFO - status code: 102503 
+error: {"requestId":"acd03f0aa1ca64739d7fecfc6bb81a9b","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:10,952 - INFO - status code: 102503 
+error: {"requestId":"62262b2eb2583ca09c188e94536a81c1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:11,104 - INFO - status code: 102503 
+error: {"requestId":"67190e0c0088209ce979bfb27914e64b","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:11,244 - INFO - status code: 102503 
+error: {"requestId":"8b748d24680d72987d3ab35c71be1f42","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:11,694 - INFO - status code: 102503 
+error: {"requestId":"856d7428b678c7e7de3d2cd689ecd061","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:12,799 - INFO - status code: 102503 
+error: {"requestId":"5de95bb541333d4f3b182152db1206fb","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:14,036 - INFO - status code: 102503 
+error: {"requestId":"6536156d7dc0e8fa2fa1892ff2c6e756","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:14,283 - INFO - status code: 102503 
+error: {"requestId":"755408de025033185020332e8c197cce","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:15,880 - INFO - status code: 102503 
+error: {"requestId":"bcd02fd6ceb0a0129e9a36e3d014ab05","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:16,771 - INFO - status code: 102503 
+error: {"requestId":"66a8396e972686e37ea45c38f0efbc15","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:18,257 - INFO - status code: 102503 
+error: {"requestId":"7b5332b307e96c28ba4d4be10be962bc","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:19,526 - INFO - status code: 102503 
+error: {"requestId":"e781b8267c7c5657edf7c289d815ceca","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:19,616 - INFO - status code: 102503 
+error: {"requestId":"12ea134d54e76202751f9176bfc695b1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:50,526 - INFO - status code: 102503 
+error: {"requestId":"24b7611145c3a49975cee2c2c09ec80e","code":102503,"message":"code:BadRequest, message:Invalid image data., type=null, param=null","data":null}
+2024-05-18 01:13:54,544 - INFO - status code: 102503 
+error: {"requestId":"315cbb4c106af670a51be2bb5aaf18e1","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:13:58,896 - INFO - status code: 102503 
+error: {"requestId":"26136ff42706c1fe28493664a27464ed","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}
+2024-05-18 01:14:02,192 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,199 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,200 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,201 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,201 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,202 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,204 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,204 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,208 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,213 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:14:02,986 - INFO - status code: 102503 
+error: {"requestId":"85727a4ac61ca66dc55cdea63517b473","code":102503,"message":"code:invalid_image_format, message:You uploaded an unsupported image. Please make sure your image is below 20 MB in size and is of one the following formats: ['png', 'jpeg', 'gif', 'webp']., type=invalid_request_error, param=null","data":null}

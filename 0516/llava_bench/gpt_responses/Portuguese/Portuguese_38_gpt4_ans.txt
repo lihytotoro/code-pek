@@ -1,0 +1,7 @@
+A imagem apresenta uma comparação humorística entre duas abordagens na área de aprendizado de máquina: Aprendizado Estatístico e Redes Neurais.
+
+Na parte superior, rotulada como "STATISTICAL LEARNING", há um personagem falando sobre ajustar um modelo de aprendizado de máquina, usando termos técnicos como "VC-Dimension", "kernel", "loss function" e "soft margin". Isso reflete a abordagem tradicional em aprendizado estatístico, que envolve uma reflexão cuidadosa sobre a teoria, a seleção de modelos e a prevenção de sobreajuste ("overgeneralization").
+
+Na parte inferior, rotulada como "NEURAL NETWORKS", outro personagem, que é uma representação cômica de um animal (possivelmente uma cabra ou ovelha), está alegremente proclamando "STACK MORE LAYERS" (empilhe mais camadas) ao lado de um frasco de poção com o mesmo texto. Isso é uma referência à tendência em redes neurais profundas de adicionar mais camadas para melhorar o desempenho do modelo, muitas vezes sem a mesma profundidade de análise teórica que é enfatizada no aprendizado estatístico.
+
+O humor surge do contraste entre as duas abordagens: a primeira é detalhada e técnica, enquanto a segunda é simplista e quase parece uma solução mágica. A frase "But unironically" (Mas sem ironia) no final sugere que, apesar da simplificação exagerada, adicionar mais camadas a uma rede neural é frequentemente uma prática legítima e eficaz na aprendizagem profunda, o que torna a situação irônica e engraçada para aqueles familiarizados com o campo.

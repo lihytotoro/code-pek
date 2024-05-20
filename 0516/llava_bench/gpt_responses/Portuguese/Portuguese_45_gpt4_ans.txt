@@ -1,0 +1,3 @@
+Este é um esboço feito à mão de um layout de website. No topo da página, há um cabeçalho com o texto "My Joke website", sugerindo que o tema do site é sobre piadas. Abaixo do cabeçalho, há dois retângulos que representam áreas de conteúdo. Cada um contém uma linha de texto que diz "Really funny joke 1" ou "Same, but joke 2", seguido por um retângulo menor com o texto "[Push to reveal punchline]", indicando que há um botão ou mecanismo para revelar a conclusão ou a "punchline" de cada piada.
+
+No canto inferior esquerdo da página, há o logotipo ou a assinatura do "OpenAI 2023", que parece ser uma referência ao ano e à organização que fez o esboço. O desenho é simples e parece estar em uma folha de papel, com linhas desenhadas para representar as bordas da página web.

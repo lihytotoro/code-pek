@@ -1,0 +1,1 @@
+Os dois conceitos de aprendizado automático mencionados no texto são "aprendizado estatístico" e "redes neurais".

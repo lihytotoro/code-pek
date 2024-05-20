@@ -1,0 +1,5 @@
+O mesmo se compõe de duas partes distintas dispostas verticalmente. Na metade superior, o título da lenda lê "aprendizado estatístico", e há uma imagem de uma pessoa de pé diante de uma lousa branca com uma expressão preocupada. No quadro, há um gráfico mostrando uma curva vermelha que diminui progressivamente. A bolha de chat da pessoa lê: "As pessoas, nosso aprendiz geraliza demais porque a dimensão de VC de nosso núcleo é muito alta. Obtenha especialistas e minimize o risco estrutural em um novo modelo. Reforme sua função de perda, faça o próximo núcleo estável, não viesado e considere o uso de um margem suave."
+
+Na metade inferior da imagem, o título da lenda lê "redes neurais", e há outra pessoa de pé diante de uma lousa branca com uma expressão alegre. Desta vez, o quadro exibe um gráfico com uma curva verde, os eixos x e y rotulados "CAMADAS". A bolha de chat da pessoa lê: "ADICIONE MAIS DE CAMADAS."
+
+Embaixo do meme, um texto de lenda diz: "Mas sem ironia". Isso sugere que o adicionar camadas adicionais é realmente considerado uma abordagem útil nas redes neurais, em contraste com as instruções complexas dadas na seção de aprendizado estatístico.

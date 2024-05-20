@@ -1,0 +1,1 @@
+Escribe breves códigos HTML/JS para convertir este mockup en un sitio web colorido, donde los chistes se reemplazan por dos chistes reales.

@@ -1,0 +1,41 @@
+2024-05-18 01:18:01,048 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:01,050 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:01,049 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:01,050 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:01,051 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:01,054 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:01,055 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:01,056 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:01,059 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:04,237 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:04,240 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:07,415 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:07,696 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:07,883 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:09,292 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:11,060 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:11,268 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:12,440 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:12,473 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:12,491 - INFO - status code: 429 
+error: Blocked by Sentinel (flow limiting)
+2024-05-18 01:18:14,467 - INFO - HTTPSConnectionPool(host='llm-center.ali.modelbest.cn', port=443): Max retries exceeded with url: /llm/client/conv/createConv (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe6f0fe4f70>: Failed to resolve 'llm-center.ali.modelbest.cn' ([Errno -3] Temporary failure in name resolution)"))

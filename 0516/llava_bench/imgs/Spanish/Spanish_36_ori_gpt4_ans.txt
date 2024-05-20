@@ -1,0 +1,1 @@
+Los dos conceptos de aprendizaje automático mencionados en el meme son "aprendizaje estadístico" y "redes neuronales".

@@ -1,0 +1,52 @@
+Aquí está el código HTML y JavaScript para crear el sitio web de broma basado en el sketch:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Joke Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightblue;
+            text-align: center;
+        }
+        h1 {
+            color: darkblue;
+            margin-bottom: 50px;
+        }
+        p#joke {
+            font-size: 24px;
+            color: darkgreen;
+            margin-bottom: 30px;
+        }
+        button {
+            font-size: 18px;
+            color: white;
+            background-color: darkorange;
+            padding: 10px 20px;
+            cursor: pointer;
+            border: none;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>My Joke Website</h1>
+    <p id="joke">Broma divertida</p>
+    <button onclick="getJoke()">Pulsa para revelar la respuesta</button>
+
+    <script>
+        async function getJoke() {
+            const respuesta = await fetch('https://api.chucknorris.io/jokes/random');
+            const datos = await respuesta.json();
+            document.getElementById('joke').innerHTML = datos.value;
+        }
+    </script>
+</body>
+</html>
+```
+
+Este código crea una página web sencilla y colorida con un título "My Joke Website", un lugar holder para la broma y un botón para revelar la respuesta. Cuando el usuario hace clic en el botón, se carga una broma aleatoria desde la API de Brome de Chuck Norris (https://api.chucknorris.io/jokes/random).

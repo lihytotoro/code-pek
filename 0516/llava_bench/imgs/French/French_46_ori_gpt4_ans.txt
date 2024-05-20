@@ -1,0 +1,51 @@
+Voici un code HTML/JS simple et coloré pour créer un site web amusant utilisant le sketch notebook avec deux blagues réelles :
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon Site Web des Blagues</title>
+  <style>
+    body {
+      background-color : lightblue;
+      text-align : center;
+      font-family : Arial, sans-serif;
+    }
+    h1 {
+      color : purple;
+    }
+    button {
+      background-color : orange;
+      color : white;
+      font-size : 1.2em;
+      margin-top : 10px;
+      padding : 10px;
+      border : none;
+      cursor : pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mon Site Web des Blagues</h1>
+  <p id="joke1">Pourquoi ne nous racontons jamais de secrets sur une ferme ?</p>
+  <button onclick="showPunchline('punchline1')">Appuyez pour révéler la punchline</button>
+  <p id="punchline1" hidden>Parce que les pommes de terre ont des yeux et le maïs a des oreilles !</p>
+
+  <p id="joke2">Pourquoi les scientifiques ne font-ils pas confiance aux atomes ?</p>
+  <button onclick="showPunchline('punchline2')">Appuyez pour révéler la punchline</button>
+  <p id="punchline2" hidden>Parce qu'ils font tout secrètement !</p>
+  
+  <p>Copyright OpenAI 2023</p>
+
+  <script>
+    function showPunchline(punchlineId) {
+      document.getElementById(punchlineId).hidden = false;
+    }
+  </script>
+</body>
+</html>
+```
+
+Ce code crée une page web simple et colorée avec un fond bleu clair et un titre en pourpre. Les blagues et les boutons sont affichés sur la page, et lorsque l'utilisateur clique sur le bouton "Appuyez pour révéler la punchline", les punchlines respectives sont révélées à l'aide de JavaScript.

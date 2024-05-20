@@ -1,0 +1,60 @@
+Aquí tienes un ejemplo sencillo de cómo podrías convertir este mock-up en un sitio web HTML con un poco de JavaScript para mostrar un chiste y su remate al hacer clic en un botón:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Joke Website</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+  }
+  #joke-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #000;
+  }
+  #punchline {
+    display: none;
+    margin-top: 20px;
+  }
+  button {
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>My Joke Website</h1>
+</header>
+
+<div id="joke-container">
+  <p id="setup">What do you call fake spaghetti?</p>
+  <p id="punchline">An impasta!</p>
+  <button onclick="revealPunchline()">Push to reveal punchline</button>
+</div>
+
+<script>
+  function revealPunchline() {
+    document.getElementById('punchline').style.display = 'block';
+  }
+</script>
+
+</body>
+</html>
+```
+
+En este ejemplo, el chiste y el remate están codificados en el HTML. El botón llama a la función `revealPunchline()`, que cambia la propiedad de visualización del remate de 'none' a 'block', revelándolo.
+
+Si quieres que el chiste se reemplace por uno real de una API o base de datos, tendrías que hacer una solicitud a una API de chistes y manejar la respuesta con JavaScript. Esto requeriría un poco más de código y una API que proporcione chistes, lo cual está fuera del alcance del ejemplo simple proporcionado aquí.
